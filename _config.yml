@@ -9,20 +9,31 @@ defaults:
 
 collections:
   legumes:
+    title: "Légumes, fruits, plants"
     output: true
   viandes:
+    title: "Viandes"
     output: true
   fromages:
+    title: "Fromages, yaourts"
     output: true
   bieres:
+    title: "Bières"
+    output: true
+  miels:
+    title: "Miel & dérivés"
     output: true
   pains:
+    title: "Pains"
     output: true  
   tisanes:
+    title: "Tisanes, petites fleurs, confitures, baumes"
     output: true
   oeufs:
+    title: "Œufs"
     output: true
   autres:
+    title: "Autres transformations"
     output: true
 
 plugins:
