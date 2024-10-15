@@ -10,7 +10,21 @@ defaults:
 collections:
   legumes:
     output: true
-  
+  viandes:
+    output: true
+  fromages:
+    output: true
+  bieres:
+    output: true
+  pains:
+    output: true  
+  tisanes:
+    output: true
+  oeufs:
+    output: true
+  autres:
+    output: true
+
 plugins:
   - jekyll-remote-theme
   - jekyll-github-metadata
