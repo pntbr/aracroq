@@ -1,0 +1,19 @@
+title: ARACROQ
+remote_theme: oisiflorus/maquillage-danslajungle
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: location
+
+collections:
+  legumes:
+    output: true
+  
+plugins:
+  - jekyll-remote-theme
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
