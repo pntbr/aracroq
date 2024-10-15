@@ -6,7 +6,7 @@ Annuaire des personnes productrices et en circuit-court dans la [vallée de l'Ar
 
 ## Liens
 
-- Lien vers l'annuaire en [PDF](https://www.araqroq.fr/assets/pdf/annuaire-2024-producteurices-val-d-Arac-08-2024.pdf)
+- Lien vers l'annuaire en [PDF](https://www.araqroq.fr/assets/pdf/annuaire-personnes-productrices-val-d-Arac.pdf)
 
 ## Crédit
 

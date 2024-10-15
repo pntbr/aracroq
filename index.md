@@ -7,6 +7,8 @@ layout: page
 
 {% include location-nav.html %}
 
+- Télécharger l'annuaire en [pdf]({{ site.baseurl }}/assets/pdf/annuaire-personnes-productrices-val-d-Arac.pdf)
+
 ## Présentation
 
 - [Pour qui ?](/pour-qui)
@@ -19,6 +21,5 @@ layout: page
 
 ## Divers
 
-- [Attentes collectives](/attentes-collectives)
 - [Nous rejoindre](/nous-rejoindre)
 - [Liens vers d'autres initiatives](/liens-autres-initiatives)

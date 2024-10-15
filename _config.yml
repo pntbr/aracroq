@@ -8,31 +8,31 @@ defaults:
       layout: location
 
 collections:
-  legumes:
+  1-legumes:
     title: "Légumes, fruits, plants"
     output: true
-  viandes:
+  2-viandes:
     title: "Viandes"
     output: true
-  fromages:
+  3-fromages:
     title: "Fromages, yaourts"
     output: true
-  bieres:
+  4-bieres:
     title: "Bières"
     output: true
-  miels:
+  5-miels:
     title: "Miel & dérivés"
     output: true
-  pains:
+  6-pains:
     title: "Pains"
     output: true  
-  tisanes:
+  7-tisanes:
     title: "Tisanes, petites fleurs, confitures, baumes"
     output: true
-  oeufs:
+  8-oeufs:
     title: "Œufs"
     output: true
-  autres:
+  9-autres:
     title: "Autres transformations"
     output: true
 
