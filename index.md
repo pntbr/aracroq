@@ -1,6 +1,9 @@
 ---
 layout: page
+title: Les acteurs et actrices du circuit-court de la vallée de l'Arac 
 ---
+Les acteurs et actrices du circuit-court de la vallée de l'Arac 
+
 {% include banner.html %}
 
 ## Annuaire des personnes productrices
