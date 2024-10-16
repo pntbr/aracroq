@@ -1,29 +1,20 @@
 ---
 nom: Alain BLONDEAU
-type: 
+produits: 
   - légumes
-transport: Bus musée Paul Valéry (Ligne 5)
-adresse: 148, rue François Desnoyer
+  - gateaux
+  - confitures
+  - champignons
+adresse: 09320 Massat
 osm: 1490777093
 tel:  06 03 31 49 04
-email: test@pm.me
-horaires:
-  - fermé
-  - 10h00-17h30
-  - 10h00-17h30
-  - 10h00-17h30
-  - 10h00-17h30
-  - 10h00-17h30
-  - fermé
+email: ablondeau52@gmail.com 
 description : >
-    Un endroit calme et authentique, loin du bruit du la ville. Petit havre de paix avec une vue sur le port et sur la mer.  
-site: https://www.facebook.com/pages/category/Restaurant/Midi-l%C3%A0-haut-448873309012687/
-responsable: Wlady
-par: pointbar
+    Alain, maraîcher, vend ses légumes, gâteaux et confitures maison au marché de Massat les jeudis et dimanches matins. 
+responsable: Alain BLONDEAU
 ---
 
 ## description
 
-Les légumes d'Alain.
+Alain est un maraîcher dévoué qui aime partager le fruit de son travail avec les habitants de Massat. En plus de ses légumes cultivés avec amour, il confectionne des gâteaux et des confitures maison, pleins de saveurs et de générosité. Retrouvez Alain au marché de Massat les jeudis et dimanches matins pour découvrir ses produits frais et ses douceurs artisanales.
 
-![Midi là haut](./media/midi-la-haut.jpg)
