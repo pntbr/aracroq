@@ -1,19 +1,27 @@
 ---
-nom: Martin BRIQUET
+nom: Brasserie des trois seigneurs
+responsable: Martin Briquet
 type: 
   - bières
-adresse: 79, promenade du maréchal Leclerc
+adresse: 09320 Buleix
 téléphone: 07 71 11 09 43
-mail: test@pm.me
-osm: 6969592032
-website: https://www.facebook.com/pages/category/Gelato-Shop/Chez-alphonse-fils-287516058272461
+mail: brasseriedestroisseigneurs@gmail.com
+osm: 10814171624
+horaires:
+  - 09:00-12:00 15:00-19:00
+  - fermé
+  - fermé
+  - fermé
+  - fermé
+  - fermé
+  - fermé
+site: https://www.facebook.com/p/Brasserie-des-Trois-Seigneurs-100086017626425/
 description : >
-  Martin BRIQUET, les bières, etc.
-par: pointbar
+  La Brasserie des Trois Seigneurs, située à Soulan en Ariège, est une microbrasserie artisanale connue pour ses bières de qualité et son accueil chaleureux. Les bières sont produites dans un cadre rustique avec de l'eau pure de la région, et disponibles en vente directe sur place.
 ---
 
 ## description
 
-Ouvert en 2019, Martin BRIQUET, les bières, etc.
+La Brasserie des Trois Seigneurs est une microbrasserie située à Soulan, en Ariège, qui se spécialise dans la production de bières artisanales de qualité. Elle est connue pour sa bière brassée dans un cadre rustique et convivial, utilisant l'eau pure de la région. La brasserie propose ses bières en vente directe sur place, et est souvent appréciée pour son accueil chaleureux. Elle est ouverte de manière ponctuelle, pour ceux qui souhaitent goûter leurs bières sur place
 
-![Chez Alphonse et Fils](./media/chez-alphonse-et-fils.jpg)
+![Brasserie des 3 seigneurs](./media/brasserie-des-3-seigneurs.jpg)
