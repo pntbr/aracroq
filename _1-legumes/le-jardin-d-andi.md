@@ -4,6 +4,7 @@ type:
   - légumes
   - plants
   - jus
+  - restauration
 adresse: Pont carré - 09320 Massat
 osm: 1705771307
 tel:  06 30 83 47 95
@@ -19,8 +20,8 @@ horaires:
   - 09h00-19h00
 description : >
     Le Jardin d'Andi à Massat est un lieu convivial proposant des légumes, fruits et plants en vente directe, tout en organisant des événements comme des contes accompagnés de petites restaurations bio.
-responsable: Andi GRÜNDEL
-responsable-1: Bettina
+responsable: Andi Gründel
+responsable-2: Bettina
 ---
 
 ## description

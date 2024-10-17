@@ -9,7 +9,7 @@ email: test@pm.me
 osm: 6969592032
 description : >
   Christelle propose des crêpes et des galettes. 
-par: pntbr
+responsable: Christelle LEVAILLANT
 ---
 
 ## description
