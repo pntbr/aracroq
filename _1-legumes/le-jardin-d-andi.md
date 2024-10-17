@@ -8,7 +8,7 @@ type:
 adresse: Pont carré - 09320 Massat
 osm: 1705771307
 tel:  06 30 83 47 95
-tel-1: 07 68 01 33 81
+tel-2: 07 68 01 33 81
 email: andreas.grundel@wanadoo.fr 
 horaires:
   - fermé

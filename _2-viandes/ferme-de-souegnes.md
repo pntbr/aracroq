@@ -1,31 +1,24 @@
 ---
-nom: Alain OLIVE- Florence PIQUEMAL
+nom: Ferme de Souègnes
 type: 
-  - buffle
-  - veau
-transport: Bus musée Paul Valéry (Ligne 5)
-adresse: 148, rue François Desnoyer
-osm: 1490777093
-tel:  06 87 52 00 50
-email: test@pm.me
-horaires:
-  - fermé
-  - 10h00-17h30
-  - 10h00-17h30
-  - 10h00-17h30
-  - 10h00-17h30
-  - 10h00-17h30
-  - fermé
+  - buffles
+  - veaux
+  - burgers
+  - savons
+adresse: La Ferme de Souègnes - 09320 Massat
+osm: 1699552208
+tel:  06 84 08 89 38
+tel-2: 06 87 52 00 50
+email: Lafermedesouegnes@orange.fr
+responsable: Alain OLIVE
+responsable-2: Florence PIQUEMAL
 description : >
-    Un endroit calme et authentique, avec des buffles, loin du bruit du la ville. Petit havre de paix avec une vue sur le port et sur la mer.  
-site: https://www.facebook.com/pages/category/Restaurant/Midi-l%C3%A0-haut-448873309012687/
-responsable: Wlady
-par: pointbar
+    La Ferme de Souègnes à Massat est une exploitation écologique, spécialisée dans l'élevage de buffles et de vaches limousines. En conversion BIO et certifiée HVE, elle privilégie la vente directe et les circuits courts pour ses produits, tels que la viande de buffle et du savon au lait de bufflonne.  
+site: https://www.lafermedesouegnes.fr
 ---
 
 ## description
 
-Les Massatois en mal de fraîcheur et de calme s'y rendent volontiers. Jouxtant le célèbre cimetière marin, sur le flanc du mont Saint-Clair, et collés au musée Paul-Valéry, la terrasse ombragée et son petit bassin à poissons rouges où flottent papyrus et nénuphars offrent une superbe vue sur la mer.
-Nathalie Richin vient de prendre les cuisines de l'ancienne brasserie des arts et propose une cuisine meridionale, remplie d'accents sétois.
+La Ferme de Souègnes, située à Massat, est une exploitation familiale engagée dans une agriculture durable et respectueuse de l'environnement. Florence et Alain Olive élèvent des buffles et des vaches limousines, en mettant l'accent sur le bien-être animal et des pratiques écologiques. La ferme est en conversion biologique et certifiée Haute Valeur Environnementale (HVE), témoignant de ses efforts pour préserver les écosystèmes locaux. Leur production se concentre sur la vente directe et les circuits courts, et comprend de la viande de buffle, de veau et de bœuf, disponible en vente à la ferme, sur les marchés locaux ou en livraison. La ferme propose aussi des produits originaux comme du savon au lait de bufflonne, entièrement naturel. Pendant la bonne saison, les animaux transhument vers les pâturages riches du Port de Lers, où ils paissent librement en estive.
 
-![Midi là haut](./media/midi-la-haut.jpg)
+![La fermer de Souègnes](./media/ferme-de-souegnes.jpg)
