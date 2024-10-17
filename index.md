@@ -26,3 +26,7 @@ Les acteurs et actrices du circuit-court de la vallée de l'Arac
 
 - [Nous rejoindre](/nous-rejoindre)
 - [Liens vers d'autres initiatives](/liens-autres-initiatives)
+
+---
+
+- [Mentions légales et crédits](/mentions)
