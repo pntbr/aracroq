@@ -6,7 +6,7 @@ produits:
   - confitures
   - champignons
 adresse: 09320 Massat
-osm: 1490777093
+osm: 1795584399
 tel:  06 03 31 49 04
 email: ablondeau52@gmail.com 
 description : >
