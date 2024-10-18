@@ -10,8 +10,7 @@ osm: 1699552208
 tel:  06 84 08 89 38
 tel-2: 06 87 52 00 50
 email: Lafermedesouegnes@orange.fr
-responsable: Alain OLIVE
-responsable-2: Florence PIQUEMAL
+responsable: Alain Olive, Florence Piquemal
 description : >
     La Ferme de Souègnes à Massat est une exploitation écologique, spécialisée dans l'élevage de buffles et de vaches limousines. En conversion BIO et certifiée HVE, elle privilégie la vente directe et les circuits courts pour ses produits, tels que la viande de buffle et du savon au lait de bufflonne.  
 site: https://www.lafermedesouegnes.fr

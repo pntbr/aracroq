@@ -20,8 +20,7 @@ horaires:
   - 09h00-19h00
 description : >
     Le Jardin d'Andi à Massat est un lieu convivial proposant des légumes, fruits et plants en vente directe, tout en organisant des événements comme des contes accompagnés de petites restaurations bio.
-responsable: Andi Gründel
-responsable-2: Bettina
+responsable: Andi Gründel, Bettina
 ---
 
 ## description
