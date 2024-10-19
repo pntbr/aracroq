@@ -18,6 +18,10 @@ Cette page liste d'autres initiatives qui proposent des initiatives autour de la
 
 > Le site consommer-parc-pyrenees-ariegeoises.fr est une plateforme qui promeut la consommation locale et responsable au sein du Parc naturel régional des Pyrénées Ariégeoises. On y trouve une vaste liste de producteurs, artisans et commerces locaux engagés dans une démarche respectueuse de l'environnement et du patrimoine. Le site facilite la mise en relation entre les consommateurs et les acteurs locaux, favorisant ainsi une économie de proximité et la valorisation des savoir-faire traditionnels de la région.
 
+- [https://consommer-parc-pyrenees-ariegeoises.fr](https://consommer-parc-pyrenees-ariegeoises.fr)
+
+> Le site "Consommer Parc Pyrénées Ariégeoises" est une plateforme qui encourage la consommation locale et responsable au sein du Parc naturel régional des Pyrénées Ariégeoises. Il propose un annuaire des producteurs, artisans, et commerces locaux engagés dans des pratiques respectueuses de l'environnement et du patrimoine. Le site permet aux consommateurs de trouver facilement des produits fermiers, des créations artisanales et des services locaux, favorisant ainsi le développement d'une économie de proximité et la valorisation des savoir-faire traditionnels de la région.
+
 - [podcast circuits courts](https://www.radiofrance.fr/francebleu/podcasts/circuits-courts-1433547)
 
 > Le podcast "Circuits Courts" de France Bleu, disponible sur le site de Radio France, explore les initiatives locales et responsables qui favorisent l'agriculture de proximité et la consommation éthique. L'émission met en avant des producteurs engagés dans des circuits courts, présentant des solutions concrètes pour encourager une économie locale durable. On y découvre des portraits de producteurs, des projets solidaires, ainsi que des conseils pratiques pour consommer de manière plus responsable et respectueuse de l'environnement.
