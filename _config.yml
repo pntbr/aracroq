@@ -36,6 +36,9 @@ collections:
   9-autres:
     title: "Autres transformations"
     output: true
+  a-distributions:
+    title: "Lieux de distributions"
+    output: true
 
 plugins:
   - jekyll-remote-theme
