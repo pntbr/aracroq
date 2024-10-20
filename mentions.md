@@ -1,5 +1,7 @@
 ---
 layout: page
+description: >
+  Mentions légales d'Aracroq : découvrez les informations sur l'éditeur, l'hébergement, et les responsables du site. Aucune donnée personnelle n'est collectée, en accord avec nos valeurs de transparence et de respect de la vie privée.
 ---
 
 ## Mentions légales

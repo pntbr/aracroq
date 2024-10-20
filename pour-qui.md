@@ -1,5 +1,7 @@
 ---
 layout: page
+description: >
+  Aracroq est un annuaire pour consommer autrement en vallée de l'Arac. Soutenez l'économie locale, rencontrez des personnes artisanes, eleveuses, productrices, transformatrices passionnées, et accédez à des produits locaux de qualité pour une consommation responsable.
 ---
 
 ## Pour qui ?

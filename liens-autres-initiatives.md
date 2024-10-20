@@ -1,5 +1,7 @@
 ---
 layout: page
+description: >
+  Liste de liens vers des initiatives locales en Ariège autour de la souveraineté alimentaire et des circuits courts. Découvrez des projets pour consommer autrement et soutenir les producteurs de la région.
 ---
 
 ## liste de liens vers d'autres initiatives

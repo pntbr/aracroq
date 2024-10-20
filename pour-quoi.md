@@ -1,5 +1,7 @@
 ---
 layout: page
+description: >
+  Consommer localement en vallée de l'Arac soutient les personnes productrices, éleveuses et artisanes engagées dans le circuit court. Aracroq est un guide pour valoriser ces initiatives locales et encourager une consommation responsable et écologique.
 ---
 
 ## Pourquoi et pour quoi ?

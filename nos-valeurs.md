@@ -1,5 +1,7 @@
 ---
 layout: page
+description: >
+  Aracroq s'engage pour la confiance, le consentement, le partage et l'inclusion. Un espace sans discrimination ni publicité, respectueux des valeurs humaines et ouvert à la contribution de chacun et chacune.
 ---
 
 ## Nos valeurs

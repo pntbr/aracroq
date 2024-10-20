@@ -1,5 +1,7 @@
 ---
 layout: page
+description: >
+  Contactez Aracroq par mail, téléphone, ou en personne. Trouvez toutes les informations pour joindre l'équipe et poser vos questions sur les initiatives locales en vallée de l'Arac.
 ---
 
 ## Nous contacter

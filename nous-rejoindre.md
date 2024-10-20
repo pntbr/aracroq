@@ -1,5 +1,7 @@
 ---
 layout: page
+description: >
+  Guide pour les personnes souhaitant contribuer au site Aracroq.fr. Conseils pratiques, intentions et explications pour rédiger des fiches de lieux, avec un focus sur la simplicité, l'inclusivité et l'accessibilité.
 ---
 
 # Petit guide pour les personnes souhaitant contribuer
