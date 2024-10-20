@@ -42,6 +42,7 @@ collections:
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
   - jekyll-github-metadata
   - jekyll-relative-links
   - jekyll-default-layout
