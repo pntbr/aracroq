@@ -14,7 +14,7 @@ Il est hébergé par [github.com](https://github.com/pntbr/aracroq).
 - Développeur et PO : [Stéphane](mailto:stephane@pntbr.fr)
 - Illustration : [Maiwann](https://www.maiwann.net)
 
-Les contenus et les site sont disponible en [licence ouverte CC0.1](https://creativecommons.org/publicdomain/zero/1.0/legalcode.fr#legal-code-title)
+Les contenus et le site sont disponible en [licence ouverte CC0.1](https://creativecommons.org/publicdomain/zero/1.0/legalcode.fr#legal-code-title)
 
 
 ## Confidentialité
