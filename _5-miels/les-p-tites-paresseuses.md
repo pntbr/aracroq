@@ -1,5 +1,5 @@
 ---
-nom: Les p'tite Parèsseuses
+nom: Les p'tites Parèsseuses
 type: 
   - nougats
   - miels
@@ -21,4 +21,4 @@ Agnès Carré récolte amoureusement pour vous cet or merveilleux qui
 caressera vos papilles au petit déjeuner, au goûter, ou lors d’un instant suspendu autour d’un thé...  
 Des produits 100% locaux !
 
-![Les p'tite Parèsseuses](./media/p-tites-paresseuses.png)
+![Les p'tites Parèsseuses](./media/p-tites-paresseuses.png)
