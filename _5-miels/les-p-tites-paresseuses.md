@@ -1,19 +1,24 @@
 ---
-nom: Agnès
+nom: Les p'tite Parèsseuses
 type: 
-  - nougat
-  - miel
-adresse: 79, promenade du maréchal Leclerc
+  - nougats
+  - miels
+  - bières
+  - pains d'épices
+adresse: 09320 Parès
 tel: 06 70 28 65 26
-email: test@pm.me
-osm: 6969592032
+email: carre.agnes09@gmail.com
+osm: 10699655573
+responsable: Agnès Carré
 description : >
-  Agnès, c'est nougats, son miel. 
-par: pointbar
+  Située au cœur des Pyrénées ariégeoises, Agnès Carré récolte du miel artisanal dans le petit hameau de Parès. Son miel 100% local est idéal pour sublimer vos petits déjeuners, vos goûters, ou pour accompagner un moment de détente autour d'un thé.
 ---
 
 ## description
 
-Agnès est une passionnée de thé, elle propose des wulong, un liu bao 30 ans d'age, les feuilles roulées du thé noir thaïlandais : Hong Cha Roll. Son commerce est léger, discret sans prétention ce qui n'est pas le propos de ses thés. Je vous souhaite de la rencontrer et de vous laisser enchanter par ses liqueurs.
+Situé au cœur des Pyrénées - Ariégeoise, dans le petit hameau de Parès,
+Agnès Carré récolte amoureusement pour vous cet or merveilleux qui
+caressera vos papilles au petit déjeuner, au goûter, ou lors d’un instant suspendu autour d’un thé...  
+Des produits 100% locaux !
 
-![Thé source de joie](./media/the-source-de-joie.jpg)
+![Les p'tite Parèsseuses](./media/p-tites-paresseuses.png)
