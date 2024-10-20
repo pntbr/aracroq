@@ -1,5 +1,4 @@
 ---
-layout: default
+layout: summary
+title: Autres transformations
 ---
-
-{% include summary.html %}

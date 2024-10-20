@@ -1,6 +1,4 @@
 ---
-layout: default
-description: 
+layout: summary
+title: Viandes
 ---
-
-{% include summary.html %}

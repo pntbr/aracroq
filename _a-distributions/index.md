@@ -1,5 +1,4 @@
 ---
-layout: default
+layout: summary
+title: Lieux de distributions
 ---
-
-{% include summary.html %}

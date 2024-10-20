@@ -1,5 +1,4 @@
 ---
-layout: default
+layout: summary
+title: Œufs
 ---
-
-{% include summary.html %}

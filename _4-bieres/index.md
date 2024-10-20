@@ -1,5 +1,4 @@
 ---
-layout: default
+layout: summary
+title: Bières
 ---
-
-{% include summary.html %}

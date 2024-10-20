@@ -1,5 +1,4 @@
 ---
-layout: default
+layout: summary
+title: Miel & dérivés
 ---
-
-{% include summary.html %}

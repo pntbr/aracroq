@@ -1,5 +1,4 @@
 ---
-layout: default
+layout: summary
+title: Pains
 ---
-
-{% include summary.html %}

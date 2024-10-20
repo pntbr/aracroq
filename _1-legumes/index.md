@@ -1,5 +1,4 @@
 ---
-layout: default
+layout: summary
+title: Légumes, fruits, plants
 ---
-
-{% include summary.html %}
