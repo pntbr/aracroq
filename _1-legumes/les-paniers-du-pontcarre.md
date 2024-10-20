@@ -20,7 +20,7 @@ horaires:
   - fermé
 description : >
     Odile et Romain, maraîchers bio à Massat, proposent des paniers de légumes hebdomadaires sans engagement. Ils vendent également aux commerces locaux et transforment leurs produits en soupes l'hiver et en galettes au printemps.
-responsable: odile.ruiz1294@gmail.com, romain.tournie@protonmail.com
+responsable: Odile Ruiz, Romain Tournie
 ---
 
 ## description
