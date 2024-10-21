@@ -14,7 +14,6 @@ horaires:
   - 07h00-13h00
   - 07h00-13h00
   - 07h00-13h00
-website: 
 description : >
   Julie et Victor ont rouvert la boulangerie « L'Espies Joyeux » à Boussenac, proposant pains rustiques bio au levain et viennoiseries, avec une approche artisanale et locale inspirée par la permaculture.
 responsable: Julie Le Coz, Victor Delhougne

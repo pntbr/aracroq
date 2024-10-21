@@ -10,7 +10,7 @@ adresse: Predes - 09320 Boussenac
 tel: 06 01 75 60 13
 mail: floredescimes@gmail.com
 osm: 7431130987
-website: https://floredescimes.com
+site: https://floredescimes.com
 description : >
   Flore des Cimes est une ferme agroécologique de montagne à Boussenac. Elle propose des produits bio issus de la cueillette sauvage et de la culture de plantes aromatiques, et anime des ateliers sur les plantes. 
 responsable: Agnès Viry
