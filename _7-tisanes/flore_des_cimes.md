@@ -5,7 +5,7 @@ type:
   - confiture
   - formation
 adresse: Parc Aqua-technique, 9 rue d'Amsterdam
-téléphone: 06 01 75 60 13
+tel: 06 01 75 60 13
 mail: test@pm.me
 osm: 6970398563
 website: https://www.facebook.com/lanchois.sete/

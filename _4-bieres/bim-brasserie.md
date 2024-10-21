@@ -4,7 +4,7 @@ responsable: Pierre Battaglieri, Guillaume Dornier
 type: 
   - bières
 adresse: 16 Ter, rue du Pont - 09320 Massat
-téléphone: 06 80 40 37 91 - 07 83 18 41 56 
+tel: 06 80 40 37 91 - 07 83 18 41 56 
 mail: bim@ecomail.fr
 osm: 1798224772
 horaires:

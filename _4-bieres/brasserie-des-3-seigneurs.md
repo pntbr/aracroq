@@ -4,7 +4,7 @@ responsable: Martin Briquet
 type: 
   - bières
 adresse: 09320 Buleix
-téléphone: 07 71 11 09 43
+tel: 07 71 11 09 43
 mail: brasseriedestroisseigneurs@gmail.com
 osm: 10814171624
 horaires:

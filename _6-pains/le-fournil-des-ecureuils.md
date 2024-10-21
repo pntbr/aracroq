@@ -3,7 +3,7 @@ nom: Chloé et Stan
 type: 
   - pain
 adresse: 79, promenade du maréchal Leclerc
-téléphone: 06 89 53 33 31
+tel: 06 89 53 33 31
 mail: test@pm.me
 osm: 6969592032
 website: https://www.facebook.com/pages/category/Gelato-Shop/Chez-alphonse-fils-287516058272461
