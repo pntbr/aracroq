@@ -1,4 +1,4 @@
 ---
 layout: summary
-title: Lieux de distributions
+title: Lieux locaux de distribution des produits locaux
 ---

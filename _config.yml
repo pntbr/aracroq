@@ -37,7 +37,7 @@ collections:
     title: "Autres transformations"
     output: true
   a-distributions:
-    title: "Lieux de distributions"
+    title: "Lieux locaux de distribution des produits locaux"
     output: true
 
 plugins:
