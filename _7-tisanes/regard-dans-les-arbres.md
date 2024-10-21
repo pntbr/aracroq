@@ -15,7 +15,7 @@ email: guillaume@greli.net
 osm: 11367148176
 site: https://regardsdanslesarbres.wordpress.com
 description : >
-  Le projet « Regards dans les arbres » est né en 2016 à Massat, avec pour objectif de créer un espace basé sur la permaculture, l'autoconstruction et la sobriété heureuse. Les produits du jardin incluent des confitures, compotes, framboises, courges, pommes de terre, herbes, tisanes, et d'autres produits transformés comme du vin et de la liqueur de framboise. L'approche est axée sur l'observation de la nature et la pérennisation des ressources.
+  Regards dans les arbres est un projet en permaculture à Massat, axé sur l'autonomie et la biodiversité. Odile et Romain cultivent fruits et plantes, et transforment leur production en confitures, compotes et liqueurs.
 responsable: Guillaume Barbier, Odile
 ---
 

@@ -1,19 +1,16 @@
 ---
-nom: Chloé et Stan
+nom: Le fournil des écureuils
 type: 
-  - pain
-adresse: 79, promenade du maréchal Leclerc
-tel: 06 89 53 33 31
-mail: test@pm.me
-osm: 6969592032
-website: https://www.facebook.com/pages/category/Gelato-Shop/Chez-alphonse-fils-287516058272461
+  - pains
+adresse: La chaumière - route du col de port - 09320 Massat
+tel: 06 83 81 75 54 - 06 89 53 33 31
+responsable: Chloé Delhome, Stan
 description : >
-  Une soeur et un frère artisans glaciers qui font des produits à tomber par terre. Sésame noir, fraise guariguette, tomates, etc. C'est qualitatif avec des produits minutieusement sourcés.
-par: pointbar
+  Le Fournil des Écureuils propose des pains bio au levain, cuits au feu de bois, avec des farines biologiques. Leur offre inclut pains de campagne et brioches, faits à la main pour garantir authenticité et qualité.
 ---
 
 ## description
 
-Ouvert en 2019, le point de vente public des deux frangin·e·s étaient très attendus. Les glaces sont préparées avec des produits rigoureusement sélectionnés, pour leur goût, leur parfum, leur origine ou leur singularité. Les créations sont puissantes. À déguster face à la mer avec des thés d'exception. L'accueil est chaleureux et les saveurs renversantes.
+Le Fournil des Écureuils propose des pains biologiques au levain, cuits au feu de bois et préparés avec des farines bio. Leur gamme inclut du pain de campagne aux graines et des brioches, tous pétris à la main avec soin, pour offrir des produits authentiques et artisanaux.
 
-![Chez Alphonse et Fils](./media/chez-alphonse-et-fils.jpg)
+![le fournil des écureuils](./media/fournil-des-ecureuils.jpg)

@@ -22,4 +22,4 @@ responsable: Nadine Dugue
 
 L'Espies Gourmand à Boussenac est une épicerie engagée qui propose des produits locaux et de qualité en provenance de la vallée de l'Arac. En plus d'offrir une gamme variée d'épicerie fine, c'est aussi un lieu de distribution essentiel pour les personnes productrices de la vallée. L'Espies Gourmand permet ainsi aux habitants et habitantes, ainsi qu'aux visiteurs et visiteuses, de se fournir en produits frais et artisanaux tout en soutenant l'économie locale et en renforçant le lien entre les personnes qui produisent et celles qui consomment.
 
-![L'espies gourmand](./media/espies-gourmand.png)
+![L'espies gourmand](./media/espies-gourmand.jpg)
