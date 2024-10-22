@@ -1,5 +1,5 @@
 ---
-nom: Demoiselles de la Plagne
+nom: GAEC des Demoiselles de la Plagne
 type: 
   - fromages
   - miels
@@ -17,4 +17,4 @@ responsable: Adélaîde Escots et Hugo Sable
 
 LE GAEC Les Demoiselles de la Plagne est une exploitation familiale au coeur de l’Ariège. Nous vous proposons fromages de chèvre au lait cru entier issu de pâturages de montagnes ainsi que du Miel des fleurs de montagne.
 
-![Demoiselles de la Plagne](./media/demoiselles-de-la-plagne.jpg)
+![GAEC des Demoiselles de la Plagne](./media/demoiselles-de-la-plagne.jpg)

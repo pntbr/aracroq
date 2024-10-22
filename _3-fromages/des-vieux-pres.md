@@ -1,3 +1,0 @@
----
-nom: Des vieux prés
----
