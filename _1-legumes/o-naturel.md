@@ -1,7 +1,10 @@
 ---
 nom: O'Naturel
 type: 
-  - Œufs, boeufs angus et dexter, tomates, courgettes,   
+  - Œufs
+  - boeufs angus et dexter
+  - tomates
+  - courgettes,   
 adresse: Lieu dit Matalas - 09320 Boussenac
 tel: 06 56 85 00 92
 email: bart_saelen@yahoo.com
