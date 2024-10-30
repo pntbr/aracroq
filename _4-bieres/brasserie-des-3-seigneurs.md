@@ -8,7 +8,7 @@ tel: 07 71 11 09 43
 mail: brasseriedestroisseigneurs@gmail.com
 osm: 10814171624
 horaires:
-  - 09:00-12:00 15:00-19:00
+  - 09h00-12h00 15h00-19h00
   - fermé
   - fermé
   - fermé

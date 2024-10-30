@@ -11,7 +11,7 @@ horaires:
   - fermé
   - fermé
   - fermé
-  - 07:00-15:00
+  - 07h00-15h00
   - fermé
 tel: 06 89 74 38 53 - 07 67 78 22 55
 email: laslaous@gmail.com

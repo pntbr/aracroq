@@ -11,8 +11,8 @@ horaires:
   - fermé
   - fermé
   - fermé
-  - 09:00-12:00 14:00-18:00
-  - 09:00-12:00 14:00-18:00
+  - 09h00-12h00 14h00-18h00
+  - 09h00-12h00 14h00-18h00
   - fermé
   - fermé
 site: https://bim-brasserie.fr
