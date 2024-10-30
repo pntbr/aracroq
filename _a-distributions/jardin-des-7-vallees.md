@@ -5,6 +5,7 @@ adresse: rue du Pont - 09320 Massat
 osm: 9001949402
 tel:  05 61 66 22 71 - 06 88 67 85 37
 email: j7v@sfr.fr
+site: https://www.facebook.com/jardin.septvallees/
 horaires:
   - 09h00-12h30 15h30-18h30
   - 09h00-12h30 15h30-18h30
