@@ -12,6 +12,11 @@ Cette page liste d'autres initiatives qui proposent des initiatives autour de la
 
 > Un jeune magasin qui regroupe, pour démarrer, une cinquantaine de productrices et producteurs locaux, en vente directe comme au marché, c’est-à-dire sans marge supplémentaire, sur le principe du dépôt-vente. Tara, l’une des maraîchères fondatrices de cette boutique avec Estelle et Elodie explique : "Nous ferons aussi de l’achat-revente, mais seulement sur une partie mineure de produits non disponibles en local. Rapidement, nous allons proposer une petite restauration à base des produits vendus en boutique à consommer sur place ou emporter."
 
+- [https://transition-couserans.gogocarto.fr/](https://transition-couserans.gogocarto.fr/)
+
+> Transition Couserans" est une carte participative qui recense plus de 350 initiatives locales de transition dans le Couserans. Ce projet vise à promouvoir les pratiques écologiques, sociales et locales, tout en encourageant l'implication citoyenne et l'économie de proximité. La démarche est collaborative, impliquant collectivités, citoyens, et associations pour identifier des projets qui renforcent la résilience du territoire. Vous pouvez explorer ces initiatives et participer activement à leur recensement.
+
+
 - [https://familles-rurales-haut-couserans.fr](https://familles-rurales-haut-couserans.fr/)
 
 > Une initiative qui s'adresse aux habitants des communes de la région du Couserans. Elle vise l'épanouissement des personnes, la promotion des familles et le développement du milieu de vie local. L'association offre divers services, notamment un espace de vie sociale, un accueil de loisirs pour les jeunes, et des activités pour toutes les générations. Ses actions s'inscrivent dans une démarche de solidarité et de soutien aux familles, tout en valorisant le lien social et la vie de communauté.
