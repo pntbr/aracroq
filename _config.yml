@@ -40,6 +40,14 @@ collections:
     title: "Lieux locaux de distribution des produits locaux"
     output: true
 
+defaults:
+  -
+    scope:
+      path: 'documentation/**'
+    values:
+      sitemap: false
+
+
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
