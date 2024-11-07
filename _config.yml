@@ -26,7 +26,7 @@ collections:
     output: true
   6-pains:
     title: "Pains"
-    output: true  
+    output: true
   7-tisanes:
     title: "Tisanes, petites fleurs, confitures, baumes"
     output: true
@@ -39,14 +39,6 @@ collections:
   a-distributions:
     title: "Lieux locaux de distribution des produits locaux"
     output: true
-
-defaults:
-  -
-    scope:
-      path: 'documentation/**'
-    values:
-      sitemap: false
-
 
 plugins:
   - jekyll-remote-theme
