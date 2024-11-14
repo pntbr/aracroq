@@ -8,6 +8,9 @@ description: >
 
 Cette page liste d'autres initiatives qui proposent des initiatives autour de la souveraineté alimentaire ou du circuit-court en Ariège.
 
+- [Citoyennete-et-alimentation-en-couserans](https://securite-sociale-alimentation.org/membre/citoyennete-et-alimentation-en-couserans/)
+> Citoyenneté et Alimentation en Couserans (CAC09) est un collectif en Ariège visant à promouvoir une Sécurité Sociale de l'Alimentation. Depuis 2021, ils ont lancé les "paniers suspendus" pour soutenir l'accès à une alimentation de qualité sans stigmatisation, via une caisse gérée par la Croix-Rouge. En 2023, un groupe local structuré et un comité de pilotage ont été mis en place pour démocratiser la gestion de cette caisse. En 2024-2025, CAC09 prévoit d'étendre les paniers suspendus et de développer une caisse expérimentale avec l'aide de partenaires comme la Croix-Rouge, Biocoop et le Parc des Pyrénées Ariégeoises.
+
 - [La récolte (facebook)](https://m.facebook.com/people/R%C3%A9colte-Paysanne/61564254347634/)
 
 > Un jeune magasin qui regroupe, pour démarrer, une cinquantaine de productrices et producteurs locaux, en vente directe comme au marché, c’est-à-dire sans marge supplémentaire, sur le principe du dépôt-vente. Tara, l’une des maraîchères fondatrices de cette boutique avec Estelle et Elodie explique : "Nous ferons aussi de l’achat-revente, mais seulement sur une partie mineure de produits non disponibles en local. Rapidement, nous allons proposer une petite restauration à base des produits vendus en boutique à consommer sur place ou emporter."
