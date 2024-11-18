@@ -4,7 +4,8 @@ type:
     - brebis
     - viande
     - laine
-reponsable: Rose Piquemal
+responsable: Rose Piquemal
+adresse: Le Bourillou - 09320 Le Port
 description: La Bergerie de Bourillou, dirigée par Rose Piquemal, élève des brebis et propose en vente directe de la viande d'agneau et des produits en laine.
 osm: 5628372059
 tel: 06 33 37 91 99
