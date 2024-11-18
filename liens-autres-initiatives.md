@@ -8,6 +8,9 @@ description: >
 
 Cette page liste d'autres initiatives qui proposent des initiatives autour de la souveraineté alimentaire ou du circuit-court en Ariège.
 
+- [nou-09.fr](https://nou-09.fr)
+> Nòu Ariège Pyrénées est une marque collective lancée en 2021 en Ariège pour promouvoir plus de 1 200 produits locaux issus de l'agriculture et de l'artisanat. Représentant plus de 100 producteurs, elle valorise la qualité et la transparence à travers une offre variée (aliments, cosmétiques, textiles). Les produits labellisés sont disponibles via une large gamme de points de vente locaux. La marque favorise le développement économique local et propose des opportunités d'investissement pour soutenir le territoire.
+
 - [Citoyennete-et-alimentation-en-couserans](https://securite-sociale-alimentation.org/membre/citoyennete-et-alimentation-en-couserans/)
 > Citoyenneté et Alimentation en Couserans (CAC09) est un collectif en Ariège visant à promouvoir une Sécurité Sociale de l'Alimentation. Depuis 2021, ils ont lancé les "paniers suspendus" pour soutenir l'accès à une alimentation de qualité sans stigmatisation, via une caisse gérée par la Croix-Rouge. En 2023, un groupe local structuré et un comité de pilotage ont été mis en place pour démocratiser la gestion de cette caisse. En 2024-2025, CAC09 prévoit d'étendre les paniers suspendus et de développer une caisse expérimentale avec l'aide de partenaires comme la Croix-Rouge, Biocoop et le Parc des Pyrénées Ariégeoises.
 
@@ -27,10 +30,6 @@ Cette page liste d'autres initiatives qui proposent des initiatives autour de la
 - [consommer-parc-pyrenees-ariegeoises.fr](https://www.consommer-parc-pyrenees-ariegeoises.fr)
 
 > Le site consommer-parc-pyrenees-ariegeoises.fr est une plateforme qui promeut la consommation locale et responsable au sein du Parc naturel régional des Pyrénées Ariégeoises. On y trouve une vaste liste de producteurs, artisans et commerces locaux engagés dans une démarche respectueuse de l'environnement et du patrimoine. Le site facilite la mise en relation entre les consommateurs et les acteurs locaux, favorisant ainsi une économie de proximité et la valorisation des savoir-faire traditionnels de la région.
-
-- [https://consommer-parc-pyrenees-ariegeoises.fr](https://consommer-parc-pyrenees-ariegeoises.fr)
-
-> Le site "Consommer Parc Pyrénées Ariégeoises" est une plateforme qui encourage la consommation locale et responsable au sein du Parc naturel régional des Pyrénées Ariégeoises. Il propose un annuaire des producteurs, artisans, et commerces locaux engagés dans des pratiques respectueuses de l'environnement et du patrimoine. Le site permet aux consommateurs de trouver facilement des produits fermiers, des créations artisanales et des services locaux, favorisant ainsi le développement d'une économie de proximité et la valorisation des savoir-faire traditionnels de la région.
 
 - [podcast circuits courts](https://www.radiofrance.fr/francebleu/podcasts/circuits-courts-1433547)
 
