@@ -6,7 +6,7 @@ description: >
 
 ## Pour qui ?
 
-Vous êtes une personne de la vallée ou juste de passage, et vous cherchez à consommer autrement ? Aracroq est pour vous 
+Vous êtes une personne de la vallée ou juste de passage, et vous cherchez à consommer autrement ? Aracroq est pour vous ! 
 
 Vous souhaitez acheter du fromage local ? Vous découvrez Estelle, une fromagère passionnée, qui vous parle avec amour de ses chèvres et de la fabrication artisanale.
 
