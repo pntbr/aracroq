@@ -12,7 +12,7 @@ type:
   - concombres
   - courgettes
 adresse: 1, hameau de Eycherboul - 09320 Massat
-osm: 5128392531
+osm: 8749028492
 tel: 07 67 99 34 28 
 email: follosneitah@gmail.com
 description : >
