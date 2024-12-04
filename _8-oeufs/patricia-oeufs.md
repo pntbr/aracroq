@@ -18,4 +18,4 @@ responsable: Marjan Saelen et Bart Saelen
 
 Bart Saelen et son épouse Marjann sont les propriétaires de la ferme O'Naturel, une petite exploitation agricole avec environ 250 poules pondeuses produisant en moyenne 200 œufs par jour, l'hiver. Ils utilisent un modèle de pâturage en rotation inspiré par Joel Salatin, qui favorise une agriculture régénérative et respectueuse de l'environnement. Ce modèle est également suivi par Richard Perkins de Ridgedale Permaculture en Suède. Leur approche met l'accent sur le bien-être animal et la qualité des produits.
 
-![patrica-oeufl](./media/patricia-oeufs2.jpg)
+![patrica-oeufl](./media/patricia-oeufs-2.jpg)
