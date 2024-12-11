@@ -34,6 +34,35 @@ Annuaire des personnes productrices et en circuit-court dans la [vallée de l'Ar
 - pour ajouter une photo reprendre le lien :
 ![texte explicatif](./media/nom-de-la-photo.jpg)
 
+### Mode d'emploi : Mettre à jour le fichier PDF
+
+#### Étapes
+
+1. **Prépare le fichier :**  
+   - Modifie le fichier sur ton ordinateur.  
+   - Assure-toi qu’il porte exactement le même nom :  
+     `annuaire-personnes-productrices-val-d-Arac.pdf`.
+
+2. **Connecte-toi à GitHub :**  
+   - Va sur [ce lien](https://github.com/pntbr/aracroq/tree/main/assets/pdf).  
+   - Connecte-toi à ton compte si nécessaire.  
+
+3. **Ajoute le fichier :**  
+   - Clique sur **"Add files"** (en haut à droite).  
+   - Choisis **"Upload files"**.  
+
+4. **Téléverse le fichier :**  
+   - Sélectionne le fichier que tu as préparé sur ton ordinateur.  
+   - Ajoute un petit message dans la section de validation.  
+
+5. **Finalise :**  
+   - Clique sur **"Commit changes"** (bouton vert) pour terminer.
+
+---
+
+Si tu as besoin d’aide ou d’éclaircissements, n’hésite pas à demander !
+
+
 ## Crédit
 
 - référent : [Yves Daniel](mailto:yda030460@aol.com)
