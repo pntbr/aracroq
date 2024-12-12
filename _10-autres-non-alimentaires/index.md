@@ -1,4 +1,4 @@
 ---
 layout: summary
-title: Légumes, fruits, plants
+title: Autres transformations non-alimentaires
 ---
