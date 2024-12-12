@@ -36,7 +36,7 @@ collections:
   9-autres:
     title: "Autres transformations alimentaires"
     output: true
-  10-autres-non-alimentaires
+  10-autres-non-alimentaires:
     title: "Autres transformations non alimentaires"
     output: true
   a-distributions:
