@@ -33,7 +33,7 @@ collections:
   8-oeufs:
     title: "Œufs"
     output: true
-  9-autres:
+  9-autres-alimentaires:
     title: "Autres transformations alimentaires"
     output: true
   a-autres-non-alimentaires:
