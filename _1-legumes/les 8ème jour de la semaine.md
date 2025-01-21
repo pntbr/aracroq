@@ -1,5 +1,5 @@
 ---
-nom: Le jardin de Neitah
+nom: Le 8eme jour de la semaine
 type: 
   - légumes
   - tomates
@@ -11,17 +11,15 @@ type:
   - blettes
   - concombres
   - courgettes
-adresse: 1, hameau de Eycherboul - 09320 Massat
+adresse: bomprat, Boussenac
 osm: 8749028492
-tel: 07 67 99 34 28 
-email: follosneitah@gmail.com
+tel: 06 87 65 61 52
+email: rawell_junior@yahoo.fr
 description : >
-    Le Jardin de Neitah, à Massat (900 m d'alt.), cultive des légumes bio en vente directe et à l'épicerie bio locale, promouvant une agriculture respectueuse et des circuits courts.
-responsable: Neitah Follos
+    légumes organiques, variétés anciennes dites "Population"- Vente direct au jardin de Bomprat/Boussenac téléphoner avant de passer pour connaître les productions disponibles
 ---
 
 ## description
 
-Le Jardin de Neitah est une exploitation maraîchère biologique située dans le hameau d'Eycherboul, à 900 mètres d'altitude, au cœur des montagnes ariégeoises. Engagé dans une agriculture respectueuse de l'environnement, le jardin propose une variété de légumes frais et de saison. Les produits sont disponibles en vente directe à la ferme et à l'épicerie bio de Massat. Cette initiative locale favorise les circuits courts et offre aux habitants des produits sains et locaux.
 
 ![Le jardin de Neitah](./media/le-jardin-de-neitah.jpg)
