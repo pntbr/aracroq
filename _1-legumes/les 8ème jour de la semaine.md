@@ -19,7 +19,7 @@ description : >
     légumes organiques, variétés anciennes dites "Population"- Vente direct au jardin de Bomprat/Boussenac téléphoner avant de passer pour connaître les productions disponibles
 ---
 
-## description
+## description légumes organiques, variétés anciennes dites "Population"- Vente direct au jardin de Bomprat/Boussenac téléphoner avant de passer pour connaître les productions disponibles
 
 
 ![Le jardin de Neitah](./media/le-jardin-de-neitah.jpg)
