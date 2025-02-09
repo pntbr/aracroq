@@ -4,7 +4,7 @@ type:
   - vaches Galloway
   - canards
   - légumes
-  - table d'hôtes
+  - table d’hôtes
   - gîte
 adresse: Bomprat - 09320 Boussenac
 osm: 4325180993

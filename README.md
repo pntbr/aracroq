@@ -34,7 +34,11 @@ Annuaire des personnes productrices et en circuit-court dans la [vallée de l'Ar
 - pour ajouter une photo reprendre le lien :
 ![texte explicatif](./media/nom-de-la-photo.jpg)
 
-### Mode d'emploi : Mettre à jour le fichier PDF
+### Ajouter  un rubrique
+
+1. se connsecter ...
+
+### Mettre à jour le fichier PDF
 
 #### Étapes
 
