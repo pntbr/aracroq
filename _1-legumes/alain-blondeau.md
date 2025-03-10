@@ -1,6 +1,6 @@
 ---
 nom: Alain Blondeau
-produits: 
+type: 
   - légumes
   - gateaux
   - confitures
