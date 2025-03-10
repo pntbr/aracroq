@@ -27,6 +27,7 @@ Le site Aracroq est un annuaire des personnes qui produisent, élèvent, transfo
 
 - [Nous rejoindre](/nous-rejoindre)
 - [Liens vers d'autres initiatives](/liens-autres-initiatives)
+- [Marché](/marches)
 
 ---
 
