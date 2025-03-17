@@ -11,6 +11,7 @@ osm: 5628372059
 tel: 06 33 37 91 99
 email: rose.piquemal09@gmail.com 
 ---
-La Bergerie de Bourillou, dirigée par Rose Piquemal, est une exploitation agricole spécialisée dans l'élevage de brebis. La bergerie propose de la viande d'agneau en vente directe, assurant une qualité optimale pour les personnes consommatrices. En plus de la production de viande, la ferme valorise la laine de ses brebis.
+La Bergerie de Bourillou, dirigée par Rose Piquemal, est une exploitation agricole spécialisée dans l'élevage de brebis. La bergerie propose de la viande d'agneau en vente directe, assurant une qualité optimale pour les personnes consommatrices.  
+En plus de la production de viande, la ferme valorise la laine de ses brebis.
 
 ![La bergerie de Bourillou](./media/bergerie-du-bourillou.jpg)
