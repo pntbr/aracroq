@@ -1,5 +1,6 @@
 ---
 nom: Béatrice Ramon
+responsable:
 type:
 - confiture
 - miel
