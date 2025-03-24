@@ -1,10 +1,11 @@
+
 ---
 nom: Christelle Levaillant
-description: Cette fiche est en cours de rédaction
-type: 
+responsable:
+type:
   - crèpes
   - galettes
+adresse: Massat - 09320
+tel: 06 42 39 11 52
+description: Cette fiche est en cours de rédaction
 ---
-
-## description
-
