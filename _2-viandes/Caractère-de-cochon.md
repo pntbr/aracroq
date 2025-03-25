@@ -16,3 +16,6 @@ En ce qui concerne la vente, une boutique est disponible sur place, mais je suis
 
 « Pour les plus curieux, Je vais mettre en place des visites de Caractère de cochon alliant exploration et explications. La première partie, en autonomie, consiste à suivre des panneaux explicatifs tout en découvrant les magnifiques paysages autour. La deuxième partie s’effectue sous forme de visite guidée une fois arrivé à la ferme.
 Pour plus d’informations sur le sujet, je vous invitons à consulter notre site internet via le lien ci-dessous. »
+
+![Caractère de cochon](./media/Brice-Catalan.jpg)
+
