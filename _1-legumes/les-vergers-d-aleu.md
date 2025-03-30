@@ -1,14 +1,10 @@
 ---
 nom: Les vergers d'Aleu
 type: 
-  - pommes
-  - légumes
-  - jus
+  - pommes, coings, raisins, figues
+  - jus de fruits
   - cidre
   - vinaigre
-  - mousseux
-  - confitures
-  - noix
 adresse: Hameau de Biech - 09320 Aleu
 osm: 5224841872
 email: agnes.rael-dorain@orange.fr
@@ -20,6 +16,7 @@ responsable: Agnès Raël et Philippe Raël
 
 ## description
 
-Les Vergers d'Aleu, situés dans le hameau de Biech à Aleu, sont gérés par Agnès Raël. La ferme produit des fruits, des légumes diversifiés, du jus, du cidre, des vinaigres, des mousseux, des confitures, ainsi que des noix. L'ensemble de la production est biologique, et les produits sont disponibles à la vente à la ferme sur rendez-vous, ainsi que sur le marché de Soulan et de Soueix.
+les vergers d'aleu sont conduits en agriculture biologique par Agnès Rael sur la commune d'Aleu : "pour accompagner mes arbres j'ai choisi le plein vent, la forme libre et la taille douce. Les traitements à base d'extrait de plantes et huiles essentiels stimulent les défenses naturelles de la plante. Les amendements avec les ressources disponibles, BRF et guano de poules entretiennent un sol vivant."  
+Je propose des fruits (pommes, coings, poires, raisins et figues) et mes jus de fruits, cidre, et vinaigre  à la vente sur le marché de soueix tous les mercredi après-midi, au jardin des 7 vallées, et à la supérette vival à oust.  
 
 ![Les vergers d'Aleu](./media/vergers-d-aleu.jpg)
