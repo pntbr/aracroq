@@ -1,13 +1,13 @@
 ---
 nom: Des légumes et des rêves
-type: 
+type:
   - légumes
 adresse: Prat Redoun, 09320 Biert
 osm: 5224952066
 tel: 06 61 66 90 28
 email: hdecarpignies@gmail.com
-description : >
-    La Ferme des Légumes et des Rêves promeut une agriculture locale, écologique et artistique à Biert, alliant culture maraîchère, autonomie énergétique, et engagement social et culturel pour la communauté locale.
+description: >
+  La Ferme des Légumes et des Rêves promeut une agriculture locale, écologique et artistique à Biert, alliant culture maraîchère, autonomie énergétique, et engagement social et culturel pour la communauté locale.
 site: https://www.fermedeslegumesetdesreves.com
 responsable: Hélène Decarpignies
 ---
