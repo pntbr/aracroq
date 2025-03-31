@@ -11,7 +11,7 @@ email: agnes.rael-dorain@orange.fr
 tel: 07 83 60 06 68 - 05 61 66 14 67
 description: >
   Les Vergers d'Aleu, gérés par Agnès et Philippe Raël, produisent des fruits, légumes, cidre, jus, vinaigre et confitures bio. Vente à la ferme sur rendez-vous et sur les marchés.
-responsable: Agnès Raël et Philippe Raël
+responsable: Agnès Raël 
 ---
 
 ## description
