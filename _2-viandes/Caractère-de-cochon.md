@@ -1,5 +1,5 @@
 ---
-nom: Caractère de cochon
+nom: Caractères de cochon
 type:
 - Porc bio
 responsable: Marine Catalan et Brice Catalan
