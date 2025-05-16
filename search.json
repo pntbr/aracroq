@@ -1,0 +1,29 @@
+---
+layout: null
+---
+[
+    {% assign seen_pages = "" | split: "," %} {% assign all_docs = site.documents %}
+    {% for doc in all_docs %}
+        {% assign filename = doc.path | split: '/' | last %}
+        {% assign is_index = (filename == 'index.md') %}
+        {% if doc.title and doc.title != "" and doc.url and doc.url != "" and filename != "index.md" %}
+            {% unless seen_pages contains doc.title %}
+            {
+                "title": {{ doc.title | jsonify }},
+                "nom": {{ doc.nom | jsonify }},
+                "type": {{ doc.type | join: ' ' | jsonify }},
+                "adresse": {{ doc.adresse | jsonify }},
+                "tel": {{ doc.tel | jsonify }},
+                "email": {{ doc.email | jsonify }},
+                "description": {{ doc.description | jsonify }},
+                "responsable": {{ doc.responsable | jsonify }},
+                "url": {{ doc.url | relative_url | jsonify }},
+                "collection": {{ doc.collection | jsonify }},
+                "content": {{ doc.content | strip_html | strip_newlines | jsonify }}
+            }{% unless forloop.last %},{% endunless %}
+            {% assign seen_pages = seen_pages | push: doc.title %}
+            {% endunless %}
+        {% endif %}
+    {% endfor %}
+    {}
+]
