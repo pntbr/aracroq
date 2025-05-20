@@ -1,0 +1,45 @@
+---
+layout: null
+---
+<html>
+<head>
+    <meta charset="utf-8">
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        tr {
+            border: 5px solid rgb(240, 240, 240);
+        }
+        td {
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+{%- for collection in site.collections -%}
+  {%- assign collection_title = collection.title | default: collection.label -%}
+  {%- unless collection.label == 'posts' -%}
+    <h2><i>{{ collection_title }}</i></h2>
+    <table class="table-collection">
+      <tbody>
+        {%- for doc in collection.docs -%}
+            {% assign filename = doc.path | split: '/' | last %}
+            {% if doc.title and doc.title != "" and doc.url and doc.url != "" and filename != "index.md" %}
+                <tr>
+                    <td><i>{{ doc.type | join: ', ' | default: "" }}</i></td>
+                    <td>{{ doc.nom | default: "" }}</td>
+                    <td>certifications</td>
+                    <td>{{ doc.adresse | default: "" }}</td>
+                    <td>lieux de rencontre</td>
+                    <td>{{ doc.tel | default: "" }}</td>
+                </tr>
+            {% endif %}
+        {%- endfor -%}
+      </tbody>
+    </table>
+  {%- endunless -%}
+{%- endfor -%}
+</body>
+</html>
