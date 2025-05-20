@@ -21,6 +21,10 @@ layout: null
         td {
             padding: 8px;
         }
+        [id*="-title"] {
+            display: flex;
+            align-items: center;
+        }
         #_1-legumes-title, #_3-fromages-title, #_5-miels-title, #_7-tisanes-title, #_9-autres-alimentaires-title, #_b-distributions-title {
             color: #468250;
         }
@@ -129,7 +133,10 @@ Veuillez <b>prendre rendez-vous</b> avant d’aller voir les productrices et pro
 {%- for collection in site.collections -%}
   {%- assign collection_title = collection.title | default: collection.label -%}
   {%- unless collection.label == 'posts' -%}
-    <h2 id="{{collection.relative_directory}}-title"><i>{{ collection_title }}</i></h2>
+    <h2 id="{{collection.relative_directory}}-title">
+        <img src="{{ site.baseurl }}/assets/media/icon-{{collection.relative_directory}}.png" />
+        <i style="padding-left: 20px;">{{ collection_title }}</i>
+    </h2>
     <table class="table-collection">
       <tbody>
         {%- for doc in collection.docs -%}
