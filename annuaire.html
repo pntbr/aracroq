@@ -12,6 +12,12 @@ layout: null
         .table-collection tr {
             border: 5px solid rgb(240, 240, 240);
         }
+        #presentation-footer {
+            border: 5px solid #468250;
+            text-align: center;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
         td {
             padding: 8px;
         }
@@ -79,7 +85,7 @@ layout: null
         }
     </style>
 </head>
-<body>
+<body style="margin: 20px;">
 <p id="presentation-banner"><img style="width: 100%" src="{{ site.baseurl }}/assets/media/banner.png" /></p>
 <h3 id="presentation-lieux">(Aleu, Soulan, Biert, Massat, Le Port, Boussenac)</h3>
 <h3 id="presentation-description">Annuaire ARACROQ des personnes actrices du circuit court :<br />
@@ -147,5 +153,11 @@ Veuillez <b>prendre rendez-vous</b> avant d’aller voir les productrices et pro
     </table>
   {%- endunless -%}
 {%- endfor -%}
+<div id="presentation-footer">
+    <div class="content">
+        {% capture md %}{% include_relative annaire-evenement.md %}{% endcapture %}
+        {{ md | markdownify }}
+    </div>
+</div>
 </body>
 </html>
