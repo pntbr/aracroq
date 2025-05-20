@@ -12,6 +12,9 @@ email: gilcampan1974@gmail.com - i_sentenac@orange.fr
 responsable: Isabelle Sentenac et Gil Campan
 description : >
      Le GAEC de Galas d'en Haut est la dernière exploitation agricole d'Aleu. La ferme valorise les pratiques agricoles locales et bénéficie d'une forte solidarité communautaire.
+transport:
+  - marché en été
+  - vente directe
 ---
 
 ## description

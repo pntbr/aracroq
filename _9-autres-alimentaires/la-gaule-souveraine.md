@@ -12,6 +12,10 @@ osm: 1914395511
 description : >
   Fabien Roidor, de la Gaule Souveraine, transforme des produits biologiques en pâtes à tartiner, confitures, crèmes de cacahuètes et purées d'amandes de qualité, dans un laboratoire équipé de meules et torréfacteurs pour garantir des saveurs authentiques.
 responsable: Fabien Roidor
+certifications:
+  - ab
+transport:
+  - vente directe
 ---
 
 ## description

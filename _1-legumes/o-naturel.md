@@ -12,6 +12,11 @@ osm: 11367145166
 description : >
   Bart Saelen et Maryann gèrent la ferme O'Naturel avec 250 poules pondeuses, produisant 200 œufs par jour. Leur approche suit un modèle de pâturage en rotation inspiré par Joel Salatin, favorisant une agriculture régénérative. 
 responsable: Marjan Saelen et Bart Saelen
+transport:
+  - vente directe
+certifications:
+  - ab
+  - np
 ---
 
 ## description

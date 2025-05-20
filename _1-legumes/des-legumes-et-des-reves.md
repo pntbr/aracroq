@@ -10,6 +10,11 @@ description: >
   La Ferme des Légumes et des Rêves promeut une agriculture locale, écologique et artistique à Biert, alliant culture maraîchère, autonomie énergétique, et engagement social et culturel pour la communauté locale.
 site: https://www.fermedeslegumesetdesreves.com
 responsable: Hélène Decarpignies
+transport:
+  - marché massat
+  - marché biert
+certifications:
+  - ab
 ---
 
 ## description

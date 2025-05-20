@@ -14,6 +14,10 @@ responsable: Judith Malotaux
 description: >
   Cachée sur un flanc de montagne à environ 800 mètres d’altitude en Ariège, au lieu dit Bomprat à Boussenac, sur les flancs du col de Port, se trouve une petite ferme qui abrite des vaches Galloway, des canards et un magnifique jardin potager en permaculture. Elle offre également la possibilité de louer une maison de vacances ou de planter une tente, de manger sur place les délicieux produits de la ferme ou des environs immédiats.
 site: https://chez-judith.com/fr
+transport:
+  - vente directe
+certifications:
+  - ab
 ---
 
 ## description

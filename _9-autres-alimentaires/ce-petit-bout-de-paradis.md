@@ -14,6 +14,10 @@ responsable: Cindy Pezet
 description : >
      Culture et transformation de plantes bio, engagées depuis 2019. Produits alimentaires et cosmiques issus d’un travail artisanal en harmonie avec la nature, la lune et la famille.
 site: https://www.facebook.com/p/Ce-petit-bout-de-paradis-100066664336429/
+transport:
+    - marché soulan
+certifications:
+    - ab
 ---
 
 ## description

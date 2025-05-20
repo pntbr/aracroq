@@ -12,6 +12,9 @@ osm: 11104474905
 description : >
   Anne Rigot, fondatrice de Zafus et Futons, crée des articles de méditation et de confort faits à la main, comme des zafus et des futons, avec des matériaux naturels et bio. 
 responsable: Anne Rigot
+transport:
+  - marché
+  - magasin
 ---
 
 ## description

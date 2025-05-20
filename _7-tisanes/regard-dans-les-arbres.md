@@ -17,6 +17,9 @@ site: https://regardsdanslesarbres.wordpress.com
 description : >
   Regards dans les arbres est un projet en permaculture à Massat, axé sur l'autonomie et la biodiversité. Odile et Romain cultivent fruits et plantes, et transforment leur production en confitures, compotes et liqueurs.
 responsable: Guillaume Barbier, Odile
+transport:
+  - marché
+  - vente directe
 ---
 
 ## description

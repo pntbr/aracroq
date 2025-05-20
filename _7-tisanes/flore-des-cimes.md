@@ -14,6 +14,11 @@ site: https://floredescimes.com
 description : >
   Flore des Cimes est une ferme agroécologique de montagne à Boussenac. Elle propose des produits bio issus de la cueillette sauvage et de la culture de plantes aromatiques, et anime des ateliers sur les plantes. 
 responsable: Agnès Viry
+certifications:
+  - ab
+  - np
+transport:
+  - vente directe
 ---
 
 ## Description

@@ -14,6 +14,8 @@ description : >
   Les Sorbets d'Ariège proposent des sorbets artisanaux biologiques, des glaces vegan à base d'amande ou de noisette, ainsi que des gelées de pommes et des cuirs de fruits déshydratés. Tous leurs produits sont certifiés biologiques et valorisent les saveurs locales.
 
 responsable: Simona Lasserre, Mathieu Lasserre
+transport:
+  - vente directe
 ---
 
 ## description

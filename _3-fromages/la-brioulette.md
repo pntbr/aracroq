@@ -6,4 +6,6 @@ type:
 adresse: Soulan - 09320 St Pierre
 tel: 06 31 14 33 35
 description: Cette fiche est en cours de rédaction
+transport:
+  - vente directe
 ---

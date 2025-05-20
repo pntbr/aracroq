@@ -12,6 +12,9 @@ osm: 10699655573
 responsable: Agnès Carré
 description : >
   Située au cœur des Pyrénées ariégeoises, Agnès Carré récolte du miel artisanal dans le petit hameau de Parès. Son miel 100% local est idéal pour sublimer vos petits déjeuners, vos goûters, ou pour accompagner un moment de détente autour d'un thé.
+transport:
+  - marché biert
+  - vente directe
 ---
 
 ## description

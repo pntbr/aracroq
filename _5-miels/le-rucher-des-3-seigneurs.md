@@ -15,6 +15,11 @@ osm: 5628374788
 responsable: Noëlle Morales
 description : >
   Le Rucher des 3 Seigneurs est niché à 900 m d’altitude où Noëlle Morales et ses abeilles créent un miel de montagne pur et des confiseries artisanales. Entre nougats, pains d’épices et propolis brute.
+transport:
+  - marchés
+  - vente directe
+certifications:
+  - ab
 ---
 
 ## description

@@ -20,6 +20,9 @@ description : >
      Ferme de Cochon Noir en pleine nature. Naissance, élevage et transformation chez nous, nous les accompagnons du premier au dernier jour de leur vie.
 
 site: https://www.facebook.com/laslaous
+transport:
+  - marché saint-girons
+  - vente directe
 ---
 
 ## description

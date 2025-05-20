@@ -5,6 +5,10 @@ type:
 responsable: Marine Catalan et Brice Catalan
 tel: 07 66 87 67 22
 description: En s’enfonçant dans la vallée, on trouve 'Caractère de cochon', un lieu où passion pour leur travail permet d’offrir des produits d'exception ! Tenue par Brice et Marine Catalan, cette ferme se distingue par son approche respectueuse et bienveillante dans le traitement des animaux. Ici, chaque porc et chaque brebis bénéficie d'une attention particulière, garantissant une viande de qualité.
+transport:
+    - vente directe
+certifications:
+    - ab
 ---
 ## description
 

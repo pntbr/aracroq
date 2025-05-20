@@ -21,6 +21,11 @@ reseaux-sociaux:
   instagram: https://www.instagram.com/bim_brasserie
 description : >
   La Brasserie BIM, située à Massat, produit des bières artisanales biologiques avec une variété de saveurs incluant blondes, ambrées, blanches et IPA. Elle accorde une attention particulière à la durabilité, notamment en utilisant un procédé manuel pour la consigne des bouteilles.
+transport:
+  - épicerie
+  - vente directe
+certifications:
+  - vp
 ---
 
 ## description

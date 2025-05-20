@@ -17,6 +17,10 @@ horaires:
 description : >
     Le Jardin des 7 Vallées est une épicerie associative à Massat, qui soutient les producteurs locaux depuis plus de 30 ans. Elle propose des produits bio variés, favorise le circuit court et renforce le lien social dans la vallée.
 responsable: Gwennyn Tanguy
+certifications:
+  - ab
+transport:
+  - vente directe
 ---
 
 ## description

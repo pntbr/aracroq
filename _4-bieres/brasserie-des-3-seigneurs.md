@@ -18,6 +18,10 @@ horaires:
 site: https://www.facebook.com/p/Brasserie-des-Trois-Seigneurs-100086017626425/
 description : >
   La Brasserie des Trois Seigneurs, située à Soulan en Ariège, est une microbrasserie artisanale connue pour ses bières de qualité et son accueil chaleureux. Les bières sont produites dans un cadre rustique avec de l'eau pure de la région, et disponibles en vente directe sur place.
+transport:
+  - vente directe
+certifications:
+  - ab
 ---
 
 ## description

@@ -16,6 +16,11 @@ tel: 06 33 75 29 09 - 05 61 02 73 99
 responsable: Christian Paya
 description : >
     Le Chant des Fleurs, dirigé par Christian Paya au Hameau de Cartou, propose des fleurs coupées, des fleurs comestibles et des légumes divers. Spécialisé en horticulture maraîchère, il pratique une agriculture biologique, certifiée Nature & Progrès, et utilise la traction animale ainsi que des planches permanentes pour une production respectueuse de l'environnement.
+transport:
+    - vente directe
+certifications:
+    - ab
+    - np
 ---
 
 ## description

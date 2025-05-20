@@ -9,6 +9,9 @@ osm: 5240621126
 description : >
   La micro-ferme du Val d'Arac est située à 750m d'altitude à Massat. Inspirée par la permaculture, elle pratique un maraîchage agroécologique (en cours de certification AB). La ferme abrite un petit élevage de poules pondeuses de race Gasconne. Gérée par Étienne Rouet et Tarek Bellefqih, elle valorise une agriculture locale, durable et respectueuse de l'environnement.
 responsable: Etienne Rouet et Tarek Bellefqih
+transport:
+  - marché en été
+  - vente directe
 ---
 
 ## description

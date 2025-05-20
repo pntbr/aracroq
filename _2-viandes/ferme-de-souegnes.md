@@ -13,6 +13,13 @@ responsable: Alain Olive, Florence Piquemal
 description : >
     La Ferme de Souègnes à Massat est une exploitation écologique, spécialisée dans l'élevage de buffles et de vaches limousines. En conversion BIO et certifiée HVE, elle privilégie la vente directe et les circuits courts pour ses produits, tels que la viande de buffle et du savon au lait de bufflonne.  
 site: https://www.lafermedesouegnes.fr
+transport:
+  - marché
+  - vente directe
+certifications:
+  - ab
+  - hve
+  - bienvenue
 ---
 
 ## description

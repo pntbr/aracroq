@@ -9,6 +9,10 @@ adresse: Bernède - 09320 Massat
 email: delphine-dedieu@hotmail.fr - juliemanou59@gmail.com
 description : >
     Delphine et Manou produisent des endives à Massat, forcées dans du sable et du terreau, offrant une qualité artisanale certifiée AB Qualisud, plus fermes et moins amères que les endives industrielles.
+transport:
+  - marché saint-girons
+certifications:
+  - ab
 ---
 
 ## description

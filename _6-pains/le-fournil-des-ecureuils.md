@@ -7,6 +7,11 @@ tel: 06 83 81 75 54 - 06 89 53 33 31
 responsable: Chloé Delhome, Stan
 description : >
   Le Fournil des Écureuils propose des pains bio au levain, cuits au feu de bois, avec des farines biologiques. Leur offre inclut pains de campagne et brioches, faits à la main pour garantir authenticité et qualité.
+transport:
+  - marché jeudi
+certifications:
+  - ab
+  - np
 ---
 
 ## description

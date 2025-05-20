@@ -12,6 +12,9 @@ email: ablondeau52@gmail.com
 description : >
     Alain, maraîcher, vend ses légumes, gâteaux et confitures maison au marché de Massat les jeudis et dimanches matins. 
 responsable: Alain Blondeau
+transport:
+  - marché massat (saison)
+  - vente directe
 ---
 
 ## description

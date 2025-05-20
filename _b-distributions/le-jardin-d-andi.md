@@ -7,6 +7,10 @@ email: andreas.grundel@wanadoo.fr
 description : >
     Le Jardin d'Andi à Massat est un lieu convivial proposant des légumes, fruits et plants en vente directe, tout en organisant des événements comme des contes accompagnés de petites restaurations bio.
 responsable: Andi Gründel, Bettina
+transport:
+    - vente directe
+certifications:
+    - ab
 ---
 
 ## description

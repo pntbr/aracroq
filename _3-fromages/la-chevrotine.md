@@ -10,6 +10,10 @@ osm: 5224981849
 description : >
   Laurine et Rémi créent des fromages de chèvres et de brebis et proposent des services autour de la traction animale avec les juments de Laurine et transforme le bois local avec la scierie mobile de Rémi.
 responsable: Laurine Del Mercato et Rémi
+transport:
+  - marché biert
+  - marché massat
+  - vente directe
 ---
 
 ## Description

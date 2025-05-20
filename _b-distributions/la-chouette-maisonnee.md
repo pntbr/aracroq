@@ -14,6 +14,10 @@ email: lachouettemaisonee@gmail.com
 responsable: Kevin Gihaut
 description: >
   La Chouette Maisonnée est un café associatif engagé au cœur de la vallée de l’Arac. Lieu chaleureux et solidaire, il propose une sélection de produits 100% bio issus des producteurs locaux, valorisant une consommation responsable et de proximité. En plus des délices régionaux, ce lieu offre un point chaud et un espace de répit ouvert à tou·te·s, toute l’année.
+transport:
+  - vente directe
+certifications:
+  - ab
 ---
 
 ## description

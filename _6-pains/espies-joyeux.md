@@ -2,6 +2,7 @@
 nom: Espies Joyeux
 type: 
   - pains
+  - pâtisserie sucré salé
 adresse: Place Espiès - Espiès - 09320 Boussenac
 tel: 07 45 10 27 44
 mail: espiesjoyeux@gmail.com
@@ -17,6 +18,10 @@ horaires:
 description : >
   Julie et Victor ont rouvert la boulangerie « L'Espies Joyeux » à Boussenac, proposant pains rustiques bio au levain et viennoiseries, avec une approche artisanale et locale inspirée par la permaculture.
 responsable: Julie Le Coz, Victor Delhougne
+transport:
+  - vente directe
+certifications:
+  - ab
 ---
 
 ## description
