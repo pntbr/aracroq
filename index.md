@@ -42,6 +42,7 @@ Le site Aracroq est un annuaire des personnes qui produisent, élèvent, transfo
 </script>
 
 - Télécharger l'annuaire en [pdf]({{ site.baseurl }}/assets/pdf/annuaire-personnes-productrices-val-d-Arac.pdf)
+- Voir l'annuaire actualisé en [ligne]({{ site.baseurl }}/annuaire.html)
 
 ## Présentation
 
