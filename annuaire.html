@@ -39,6 +39,28 @@ layout: null
             background-color: #eaa27e;
             color: white;
         }
+        .cell-type {
+            width: 15%;
+        }
+        [class*="-name"] {
+            width: 15%;
+        }
+        .cell-certifications {
+            width: 10%;
+            text-align: center;
+        }
+        [class*="-address"] {
+            width: 10%;
+            text-align: center;
+        }
+        .cell-lieux {
+            width: 10%;
+            text-align: center;
+        }
+        .cell-tel {
+            width: 10%;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -52,12 +74,12 @@ layout: null
             {% assign filename = doc.path | split: '/' | last %}
             {% if doc.title and doc.title != "" and doc.url and doc.url != "" and filename != "index.md" %}
                 <tr>
-                    <td><i>{{ doc.type | join: ', ' | default: "" }}</i></td>
+                    <td class="cell-type"><i>{{ doc.type | join: ', ' | default: "" }}</i></td>
                     <td class="{{collection.relative_directory}}-name">{{ doc.nom | default: "" }}</td>
-                    <td>certifications</td>
+                    <td class="cell-certifications">certifications</td>
                     <td class="{{collection.relative_directory}}-address">{{ doc.adresse | default: "" }}</td>
-                    <td>lieux de rencontre</td>
-                    <td>{{ doc.tel | default: "" }}</td>
+                    <td class="cell-lieux">lieux de rencontre</td>
+                    <td class="cell-tel">{{ doc.tel | default: "" }}</td>
                 </tr>
             {% endif %}
         {%- endfor -%}
