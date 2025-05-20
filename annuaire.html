@@ -61,9 +61,55 @@ layout: null
             width: 10%;
             text-align: center;
         }
+        #presentation-top, #presentation-lieux {
+            color: #468250;
+            text-align: center;
+        }
+        #presentation-bottom {
+            background-color: #468250;
+            color: white;
+            width: fit-content;
+            text-align: center;
+            margin: auto;
+            padding: 5px;
+            border-radius: 0.3em;
+        }
+        #presentation-description, #presentation-version {
+            text-align: center;
+            color: #eaa27e;
+        }
     </style>
 </head>
 <body>
+<h1 id="presentation-top">Acheter et produire local</h1>
+<h1 id="presentation-bottom">dans la vallée de l'Arac</h1>
+<h3 id="presentation-lieux">(Aleu, Soulan, Biert, Massat, Le Port, Boussenac)</h3>
+<h3 id="presentation-description">Annuaire ARACROQ des personnes actrices du circuit court :<br />
+productrices – éleveuses – transformatrices – distributrices</h3>
+<p id="presentation-version">
+{% assign month_number = "now" | date: "%m" %}
+{% assign year = "now" | date: "%Y" %}
+
+Version 
+{% case month_number %}
+  {% when '01' %}Janvier
+  {% when '02' %}Février
+  {% when '03' %}Mars
+  {% when '04' %}Avril
+  {% when '05' %}Mai
+  {% when '06' %}Juin
+  {% when '07' %}Juillet
+  {% when '08' %}Août
+  {% when '09' %}Septembre
+  {% when '10' %}Octobre
+  {% when '11' %}Novembre
+  {% when '12' %}Décembre
+{% endcase %}
+ {{ year }}
+</p>
+Tous ces produits sont locaux et naturels. Certains sont labellisés :<br/>
+Les marchés mentionnés sont ceux de Massat, Biert et Soulan.<br />
+Veuillez <b>prendre rendez-vous</b> avant d’aller voir les productrices et producteurs.
 {%- for collection in site.collections -%}
   {%- assign collection_title = collection.title | default: collection.label -%}
   {%- unless collection.label == 'posts' -%}
