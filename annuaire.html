@@ -132,9 +132,13 @@ Veuillez <b>prendre rendez-vous</b> avant d’aller voir les productrices et pro
                 <tr>
                     <td class="cell-type"><i>{{ doc.type | join: ', ' | default: "" }}</i></td>
                     <td class="cell-{{collection.relative_directory}}-name">{{ doc.nom | default: "" }}</td>
-                    <td class="cell-certifications">certifications</td>
+                    <td class="cell-certifications">
+                        {% for cert in doc.certifications %}
+                            <img src="{{ site.baseurl }}/assets/media/label-{{ cert }}.png" alt="{{ cert | upcase }}" />
+                        {% endfor %}
+                    </td>
                     <td class="cell-{{collection.relative_directory}}-address">{{ doc.adresse | default: "" }}</td>
-                    <td class="cell-lieux">lieux de rencontre</td>
+                    <td class="cell-lieux">{{ doc.transport | join: '<br />' | default: "" }}</td>
                     <td class="cell-tel">{{ doc.tel | default: "" }}</td>
                 </tr>
             {% endif %}
