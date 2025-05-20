@@ -5,7 +5,6 @@ layout: null
     {% assign seen_pages = "" | split: "," %} {% assign all_docs = site.documents %}
     {% for doc in all_docs %}
         {% assign filename = doc.path | split: '/' | last %}
-        {% assign is_index = (filename == 'index.md') %}
         {% if doc.title and doc.title != "" and doc.url and doc.url != "" and filename != "index.md" %}
             {% unless seen_pages contains doc.title %}
             {
