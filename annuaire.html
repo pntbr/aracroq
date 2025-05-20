@@ -9,7 +9,7 @@ layout: null
             border-collapse: collapse;
             width: 100%;
         }
-        tr {
+        .table-collection tr {
             border: 5px solid rgb(240, 240, 240);
         }
         td {
@@ -18,11 +18,11 @@ layout: null
         #_1-legumes-title, #_3-fromages-title, #_5-miels-title, #_7-tisanes-title, #_9-autres-alimentaires-title, #_b-distributions-title {
             color: #468250;
         }
-        ._1-legumes-name, ._3-fromages-name, ._5-miels-name, ._7-tisanes-name, ._9-autres-alimentaires-name, ._b-distributions-name {
+        .cell-_1-legumes-name, .cell-_3-fromages-name, .cell-_5-miels-name, .cell-_7-tisanes-name, .cell-_9-autres-alimentaires-name, .cell-_b-distributions-name {
             font-weight: bold;
             color: #468250;
         }
-        ._1-legumes-address, ._3-fromages-address, ._5-miels-address, ._7-tisanes-address, ._9-autres-alimentaires-address, ._b-distributions-address {
+        .cell-_1-legumes-address, .cell-_3-fromages-address, .cell-_5-miels-address, .cell-_7-tisanes-address, .cell-_9-autres-alimentaires-address, .cell-_b-distributions-address {
             font-weight: bold;
             background-color: #468250;
             color: white;
@@ -30,11 +30,11 @@ layout: null
         #_2-viandes-title, #_4-bieres-title, #_6-pains-title, #_8-oeufs-title, #_a-autres-non-alimentaires-title {
             color: #eaa27e;
         }
-        ._2-viandes-name, ._4-bieres-name, ._6-pains-name, ._8-oeufs-name, ._a-autres-non-alimentaires-name {
+        .cell-_2-viandes-name, .cell-_4-bieres-name, .cell-_6-pains-name, .cell-_8-oeufs-name, .cell-_a-autres-non-alimentaires-name {
             font-weight: bold;
             color: #eaa27e;
         }
-        ._2-viandes-address, ._4-bieres-address, ._6-pains-address, ._8-oeufs-address, ._a-autres-non-alimentaires-address {
+        .cell-_2-viandes-address, .cell-_4-bieres-address, .cell-_6-pains-address, .cell-_8-oeufs-address, .cell-_a-autres-non-alimentaires-address {
             font-weight: bold;
             background-color: #eaa27e;
             color: white;
@@ -61,28 +61,26 @@ layout: null
             width: 10%;
             text-align: center;
         }
-        #presentation-top, #presentation-lieux {
+        #presentation-lieux {
             color: #468250;
             text-align: center;
-        }
-        #presentation-bottom {
-            background-color: #468250;
-            color: white;
-            width: fit-content;
-            text-align: center;
-            margin: auto;
-            padding: 5px;
-            border-radius: 0.3em;
         }
         #presentation-description, #presentation-version {
             text-align: center;
             color: #eaa27e;
         }
+        .table-certifications td {
+            text-align: center;
+        }
+        .table-certifications tr {
+            align-items: center;
+            justify-content: space-around;
+            display: flex;
+        }
     </style>
 </head>
 <body>
-<h1 id="presentation-top">Acheter et produire local</h1>
-<h1 id="presentation-bottom">dans la vallée de l'Arac</h1>
+<p id="presentation-banner"><img style="width: 100%" src="{{ site.baseurl }}/assets/media/banner.png" /></p>
 <h3 id="presentation-lieux">(Aleu, Soulan, Biert, Massat, Le Port, Boussenac)</h3>
 <h3 id="presentation-description">Annuaire ARACROQ des personnes actrices du circuit court :<br />
 productrices – éleveuses – transformatrices – distributrices</h3>
@@ -108,6 +106,18 @@ Version
  {{ year }}
 </p>
 Tous ces produits sont locaux et naturels. Certains sont labellisés :<br/>
+<table class="table-certifications">
+    <tbody>
+        <tr>
+            <td><p><img src="{{ site.baseurl }}/assets/media/label-ab.png" alt="AB" /><p><p>Agriculture Biologique</p></td>
+            <td><p><img src="{{ site.baseurl }}/assets/media/label-np.png" alt="NP" /><p><p>Nature et Progrès</p></td>
+            <td><p><img src="{{ site.baseurl }}/assets/media/label-vp.png" alt="VP" /><p><p>Valeur Parc</p></td>
+            <td><p><img src="{{ site.baseurl }}/assets/media/label-hve.png" alt="HVE" /><p><p>HVE</p></td>
+            <td><p><img src="{{ site.baseurl }}/assets/media/label-dem.png" alt="DEM" /><p><p>Demeter</p></td>
+            <td><p><img src="{{ site.baseurl }}/assets/media/label-bienvenue.png" alt="Bienvenue à la Ferme" /><p><p>Bienvenue à la Ferme</p></td>
+        </tr>
+    </tbody>
+</table>
 Les marchés mentionnés sont ceux de Massat, Biert et Soulan.<br />
 Veuillez <b>prendre rendez-vous</b> avant d’aller voir les productrices et producteurs.
 {%- for collection in site.collections -%}
@@ -121,9 +131,9 @@ Veuillez <b>prendre rendez-vous</b> avant d’aller voir les productrices et pro
             {% if doc.title and doc.title != "" and doc.url and doc.url != "" and filename != "index.md" %}
                 <tr>
                     <td class="cell-type"><i>{{ doc.type | join: ', ' | default: "" }}</i></td>
-                    <td class="{{collection.relative_directory}}-name">{{ doc.nom | default: "" }}</td>
+                    <td class="cell-{{collection.relative_directory}}-name">{{ doc.nom | default: "" }}</td>
                     <td class="cell-certifications">certifications</td>
-                    <td class="{{collection.relative_directory}}-address">{{ doc.adresse | default: "" }}</td>
+                    <td class="cell-{{collection.relative_directory}}-address">{{ doc.adresse | default: "" }}</td>
                     <td class="cell-lieux">lieux de rencontre</td>
                     <td class="cell-tel">{{ doc.tel | default: "" }}</td>
                 </tr>
