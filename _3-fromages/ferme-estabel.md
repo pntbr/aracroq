@@ -1,10 +1,12 @@
 ---
 nom: Ferme Estabel
-description: Cette fiche est en cours de rédaction
-adresse: Abela - BOUSSENAC 09320
-tel: 07 69 93 26 46
+responsable: Estelle Profichet
 type:
-    - Fromage de brebis
+  - Fromage de brebis
+  - Yaourt
+adresse: Boussenac - 09320 Abela
+tel: 07 69 93 26 46
+description: Cette fiche est en cours de rédaction
 transport:
     - vente directe
 ---
