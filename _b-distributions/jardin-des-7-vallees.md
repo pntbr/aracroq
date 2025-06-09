@@ -1,6 +1,5 @@
 ---
 nom: Le jardin des 7 vallées
-description: Cette fiche est en cours de rédaction
 adresse: rue du Pont - 09320 Massat
 osm: 9001949402
 tel:  05 61 66 22 71 - 06 88 67 85 37
@@ -14,6 +13,8 @@ horaires:
   - 09h00-12h30 15h30-18h30
   - 09h00-12h30 15h30-18h30
   - fermé
+type:
+  - Epicerie associative
 description : >
     Le Jardin des 7 Vallées est une épicerie associative à Massat, qui soutient les producteurs locaux depuis plus de 30 ans. Elle propose des produits bio variés, favorise le circuit court et renforce le lien social dans la vallée.
 responsable: Gwennyn Tanguy
