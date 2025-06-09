@@ -13,6 +13,10 @@ horaires:
   - 09h00-18h30
   - 09h00-18h30
   - 09h00-13h00
+type:
+  - pizzas
+  - restaurant
+  - épicerie
 description : >
     L'Espies Gourmand à Boussenac est une épicerie qui propose des produits locaux de la vallée de l'Arac et sert de lieu de distribution pour les personnes productrices, favorisant ainsi le lien entre celles et ceux qui produisent et celles et ceux qui consomment.
 responsable: Nadine Dugue
