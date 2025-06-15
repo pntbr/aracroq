@@ -11,7 +11,7 @@ type:
   - blettes
   - concombres
   - courgettes
-adresse: bomprat, Boussenac
+adresse: bomprat - 09320 Boussenac
 osm: 8749028492
 tel: 06 87 65 61 52
 email: rawell_junior@yahoo.fr

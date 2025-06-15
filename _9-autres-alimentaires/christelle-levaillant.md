@@ -4,7 +4,7 @@ responsable:
 type:
   - crèpes
   - galettes
-adresse: Massat - 09320
+adresse: 09320 Massat
 tel: 06 42 39 11 52
 description: Cette fiche est en cours de rédaction
 ---

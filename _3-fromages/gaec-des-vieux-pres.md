@@ -3,7 +3,7 @@ nom: GAEC Les Vieux Prés
 type: 
   - fromages
   - produits laitiers
-adresse: Hameau Eychervidal, 09400 Saurat
+adresse: Hameau Eychervidal - 09400 Saurat
 osm: 3516853164
 horaires:
     - 8h30-9h30 17h30-18h00

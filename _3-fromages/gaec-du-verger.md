@@ -3,7 +3,7 @@ nom: GAEC du Verger
 type: 
   - yaourts
   - fromages
-adresse: Ardichen, 09320 Soulan
+adresse: Ardichen - 09320 Soulan
 osm: 7879999415
 email: francoise.sarramalho0585@orange.fr
 tel: 06 86 27 66 53

@@ -2,7 +2,7 @@
 nom: Des légumes et des rêves
 type:
   - légumes
-adresse: Prat Redoun, 09320 Biert
+adresse: Prat Redoun - 09320 Biert
 osm: 5224952066
 tel: 06 61 66 90 28
 email: hdecarpignies@gmail.com

@@ -5,7 +5,7 @@ type:
   - miels
   - bières
   - pains d'épices
-adresse: 09320 Parès
+adresse: Parès - 09320 Soulan
 tel: 06 70 28 65 26
 email: carre.agnes09@gmail.com
 osm: 10699655573
