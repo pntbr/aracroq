@@ -142,6 +142,18 @@ Veuillez <b>prendre rendez-vous</b> avant d’aller voir les productrices et pro
         {%- for doc in collection.docs -%}
             {% assign filename = doc.path | split: '/' | last %}
             {% if doc.title and doc.title != "" and doc.url and doc.url != "" and filename != "index.md" %}
+                {% assign adresse_parts = doc.adresse | split: ' - ' %}
+                {% if adresse_parts.size > 1 %}
+                    {% assign raw_commune = adresse_parts | last %}
+                    {% assign commune_parts = raw_commune | split: ' ' %}
+                    {% assign commune = commune_parts | slice: 1, commune_parts.size | join: ' ' | upcase %}
+                    {% assign limit = adresse_parts.size | minus: 1 %}
+                    {% assign lieu = adresse_parts | slice: 0, limit | join: ' - ' %}
+                {% else %}
+                    {% assign commune_parts = doc.adresse | split: ' ' %}
+                    {% assign commune = commune_parts | slice: 1, commune_parts.size | join: ' ' | upcase %}
+                    {% assign lieu = "" %}
+                {% endif %}              
                 <tr>
                     <td class="cell-type"><i>{{ doc.type | join: ', ' | default: "" }}</i></td>
                     <td class="cell-{{collection.relative_directory}}-name">{{ doc.nom | default: "" }}</td>
@@ -150,7 +162,10 @@ Veuillez <b>prendre rendez-vous</b> avant d’aller voir les productrices et pro
                             <img src="{{ site.baseurl }}/assets/media/label-{{ cert }}.png" alt="{{ cert | upcase }}" />
                         {% endfor %}
                     </td>
-                    <td class="cell-{{collection.relative_directory}}-address">{{ doc.adresse | default: "" }}</td>
+                    <td class="cell-{{collection.relative_directory}}-address">
+                        <div>{{ commune }}</div>
+                        <div>{{ lieu }}</div>
+                    </td>
                     <td class="cell-lieux">{{ doc.transport | join: '<br />' | default: "" }}</td>
                     <td class="cell-tel">{{ doc.tel | default: "" }}</td>
                 </tr>
