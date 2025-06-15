@@ -2,7 +2,7 @@
 nom: Julien Géraud
 responsable: Julien Géraud
 type:
-  - Miels
+  - Viande de vache
 adresse: Boussenac - 09320 Fourcadel
 tel: 06 82 78 09 02
 mail: geraudjulien@yahoo.fr
