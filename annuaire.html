@@ -156,7 +156,27 @@ Veuillez <b>prendre rendez-vous</b> avant d’aller voir les productrices et pro
                 {% endif %}              
                 <tr>
                     <td class="cell-type"><i>{{ doc.type | join: ', ' | default: "" }}</i></td>
-                    <td class="cell-{{collection.relative_directory}}-name">{{ doc.nom | default: "" }}</td>
+                    <td class="cell-{{collection.relative_directory}}-name">
+                        {% if doc.nom %}
+                            {% assign nom_words = doc.nom | split: " " | join: "," | split: "," %}
+                            {% assign responsable_words = doc.responsable | split: " " | join: "," | split: "," %}
+                            {% assign intersection = "" %}
+                            {% for word in nom_words %}
+                                {% if responsable_words contains word %}
+                                    {% assign intersection = word %}
+                                    {% break %}
+                                {% endif %}
+                            {% endfor %}
+                            {% if doc.nom == doc.responsable or intersection != "" %}
+                                {{ doc.nom }}
+                            {% else %}
+                                {{ doc.responsable | default: "" }}<br />
+                                {{ doc.nom | default: "" }}
+                            {% endif %}
+                        {% else %}
+                            {{ doc.responsable | default: "" }}
+                        {% endif %}
+                    </td>
                     <td class="cell-certifications">
                         {% for cert in doc.certifications %}
                             <img src="{{ site.baseurl }}/assets/media/label-{{ cert }}.png" alt="{{ cert | upcase }}" />
