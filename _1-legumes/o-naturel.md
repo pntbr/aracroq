@@ -14,6 +14,7 @@ description : >
 responsable: Marjan Saelen et Bart Saelen
 transport:
   - vente directe
+  - Marché
 certifications:
   - ab
   - np

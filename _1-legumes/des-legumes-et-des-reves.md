@@ -2,6 +2,7 @@
 nom: Des légumes et des rêves
 type:
   - légumes
+  - plants
 adresse: Prat Redoun - 09320 Biert
 osm: 5224952066
 tel: 06 61 66 90 28
@@ -13,6 +14,7 @@ responsable: Hélène Decarpignies
 transport:
   - marché massat
   - marché biert
+  - Vente directe
 certifications:
   - ab
 ---

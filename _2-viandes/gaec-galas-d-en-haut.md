@@ -1,8 +1,9 @@
 ---
 nom: GAEC Galas d'en Haut
 type: 
-  - boeufs
-  - brebis
+  - veau
+  - boeuf gascon
+  - brebis tarasconnaise
   - conserves
   - charcuteries
 adresse: Galas d'en Haut - 09320 Aleu

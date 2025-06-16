@@ -15,6 +15,7 @@ description: >
 transport:
   - épicerie
   - vente directe
+  - Marché (parfois)
 certifications:
   - ab
   - np

@@ -2,6 +2,7 @@
 nom: Sorbets d'Ariège
 type: 
   - glaces
+  - glaces vegan
   - gelées
   - cuirs de fruits
   - gaufres

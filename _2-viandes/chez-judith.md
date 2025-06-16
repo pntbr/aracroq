@@ -8,7 +8,7 @@ type:
   - gîte
 adresse: Bomprat - 09320 Boussenac
 osm: 4325180993
-tel: 06 14 04 97 69
+tel: 06 44 75 52 14
 email:
 responsable: Judith Malotaux
 description: >

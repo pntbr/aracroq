@@ -24,6 +24,7 @@ responsable: Odile Ruiz, Romain Tournie
 transport:
   - épicerie
   - vente directe
+  - Marché (parfois)
 certifications:
   - ab
 ---

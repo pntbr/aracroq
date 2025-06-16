@@ -5,6 +5,10 @@ type:
   - brebis
   - conserves
   - charcuteries
+  - Saucisse
+  - merguez
+  - chorizo
+  - produits de salaison
 adresse: Galas d'en Haut - 09320 Aleu
 osm: 5224819935
 tel: 06 49 37 88 49

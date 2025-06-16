@@ -1,13 +1,9 @@
 ---
 nom: Regard dans les arbres
 type: 
-  - rockets stoves
-  - confitures
-  - tisanes
-  - chambres d'hôtes
   - plants
-  - huiles
-  - compotes
+  - légumes
+
 adresse: Estien - 09320 Boussenac
 tel: 06 33 37 87 48
 email: guillaume@greli.net
