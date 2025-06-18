@@ -1,9 +1,6 @@
 ---
 nom: Chez Judith
 type:
-  - vaches Galloway
-  - canards
-  - légumes
   - table d'hôtes
   - gîte
 adresse: Bomprat - 09320 Boussenac

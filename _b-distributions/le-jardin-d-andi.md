@@ -1,6 +1,13 @@
 ---
 nom: Le jardin d’Andi
 adresse: Pont carré - 09320 Massat
+type:
+ - Légumes
+ - tisanes
+ - confitures
+ - fromage
+ - cosmétique
+ - pain
 osm: 1705771307
 tel:  06 30 83 47 95 - 07 68 01 33 81
 email: andreas.grundel@wanadoo.fr 
