@@ -11,7 +11,6 @@ type:
 adresse: Hameau de Cartou - 09320 Boussenac
 osm: 5257311394
 email: payachristian09@gmail.com
-description: Cette fiche est en cours de rédaction
 tel: 06 33 75 29 09 - 05 61 02 73 99
 responsable: Christian Paya
 description : >
