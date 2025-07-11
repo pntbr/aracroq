@@ -13,7 +13,7 @@ description: >
 responsable: Christel le Luhandre-Tonelli et Fabrice Tonelli
 certifications:
   - ab
-transport:
+tarifs: [Grille tarifaire](./media/ferme-des-brus_tarifs.pdf)
 ---
 
 ## Description
