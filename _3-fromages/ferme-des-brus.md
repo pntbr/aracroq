@@ -15,7 +15,7 @@ certifications:
   - ab
 ---
 
-[Grille tarifaire](./media/ferme-des-brus_tarifs.pdf)
+[Grille tarifaire](./media/ferme-de-brus_tarifs.pdf)
 
 ## Description
 
