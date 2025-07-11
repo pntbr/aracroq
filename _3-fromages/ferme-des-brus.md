@@ -9,13 +9,12 @@ tel: 06 21 51 70 08 - 05 61 64 78 38
 mail: ferme.des.brus@gmx.fr
 site: https://www.facebook.com/FermeBrus/
 description: >
-  La Ferme des Brus à Soulan transforme leur lait en fromages au lait cru (frais, secs, tommes). Labellisés AB, ils sont vendus sur les marchés, en AMAP, et localement. Leur produit phare : le Moelloux, un fromage crémeux et fondant.
+  La Ferme des Brus à Soulan transforme leur lait en fromages au lait cru (frais, secs, tommes). Labellisés AB, ils sont vendus sur le marché de St GIRONS, ou couplé avec Caractères de cochons. Leur produit phare : le Moelloux, un fromage crémeux et fondant.
 responsable: Christel le Luhandre-Tonelli et Fabrice Tonelli
 certifications:
   - ab
 transport:
-  - vente directe
----
+ ---
 
 ## Description
 
