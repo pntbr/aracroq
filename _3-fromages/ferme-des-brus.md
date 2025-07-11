@@ -14,7 +14,7 @@ responsable: Christel le Luhandre-Tonelli et Fabrice Tonelli
 certifications:
   - ab
 transport:
- ---
+---
 
 ## Description
 
