@@ -9,6 +9,7 @@ description : >
   Le Fournil des Écureuils propose des pains bio au levain, cuits au feu de bois, avec des farines biologiques. Leur offre inclut pains de campagne et brioches, faits à la main pour garantir authenticité et qualité.
 transport:
   - marché jeudi
+  - 7 vallées
 certifications:
   - ab
   - np

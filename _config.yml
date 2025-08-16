@@ -36,11 +36,11 @@ collections:
   9-autres-alimentaires:
     title: "Autres transformations alimentaires"
     output: true
-  a-autres-non-alimentaires:
-    title: "Autres transformations non alimentaires"
+  a-autres-transformations:
+    title: "Autres transformations : tourisme, artisanat, restauration"
     output: true
   b-distributions:
-    title: "Lieux locaux de distribution des produits locaux"
+    title: "Lieux de distribution locaux des produits locaux"
     output: true
 
 plugins:

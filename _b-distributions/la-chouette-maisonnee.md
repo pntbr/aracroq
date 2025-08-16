@@ -11,12 +11,12 @@ type:
 adresse: 2, rue du col de port - 09320 Massat
 osm: 1914395511
 email: lachouettemaisonee@gmail.com
-tel: 08 74 37 48 68
-responsable: Kevin Gihaut
+tel: 06 74 37 48 68
+responsable: Fabien ROIDOR
 description: >
   La Chouette Maisonnée est un café associatif engagé au cœur de la vallée de l’Arac. Lieu chaleureux et solidaire, il propose une sélection de produits 100% bio issus des producteurs locaux, valorisant une consommation responsable et de proximité. En plus des délices régionaux, ce lieu offre un point chaud et un espace de répit ouvert à tou·te·s, toute l’année.
 transport:
-  - vente directe
+  - vente directe (après midi)
 certifications:
   - ab
 ---

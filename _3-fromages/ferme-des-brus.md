@@ -13,6 +13,8 @@ description: >
 responsable: Christel le Luhandre-Tonelli et Fabrice Tonelli
 certifications:
   - ab
+transport:
+  - marché (saint girons)
 ---
 
 [Grille tarifaire](./media/ferme-de-brus_tarifs.pdf)
