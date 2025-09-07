@@ -1,11 +1,11 @@
 ---
 nom: Les paniers du Pontcarré 
 type: 
-  - légumes
-  - soupes
-  - galettes
-  - pesto
-  - paniers de légumes
+  - Légumes
+  - Soupes
+  - Galettes
+  - Pesto
+  - Paniers de légumes
 adresse: Les paniers du Pontcarré - Guioulat - 09320 Massat
 osm: 5240681476
 tel: 06 61 25 80 93 - 06 36 37 04 09 
