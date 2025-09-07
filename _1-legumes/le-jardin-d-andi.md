@@ -1,10 +1,10 @@
 ---
 nom: Le jardin d’Andi
 type: 
-  - légumes
-  - plants
-  - jus
-  - restauration
+  - Légumes
+  - Plants
+  - Jus
+  - Restauration
 adresse: Pont carré - 09320 Massat
 osm: 1705771307
 tel:   06 79 86 04 31
