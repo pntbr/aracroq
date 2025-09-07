@@ -1,7 +1,7 @@
 ---
 nom: Le 8eme jour de la semaine
 type: 
-  - Légumes dont
+  - Légumes
   - Tomates
   - Carottes
   - Potimarrons
