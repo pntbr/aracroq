@@ -2,10 +2,10 @@
 nom: Atelier des champs
 responsable: Marilène Bertin
 type:
-  - plants médicinales
-  - aromatiques
-  - plantes à parfum
-  - plants de légumes
+  - Plants médicinales
+  - Aromatiques
+  - Plantes à parfum
+  - Plants de légumes
 adresse: 09320 Biert
 tel: 06 62 69 37 79
 email: atelierdeschamps@yahoo.fr
