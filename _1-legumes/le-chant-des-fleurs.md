@@ -1,13 +1,13 @@
 ---
 nom: Le chant des fleurs
 type:
-    - fleurs coupées
-    - fleurs comestibles
-    - mesclun
-    - courgettes
-    - potimarron
-    - tomates
-    - traction animale  
+    - Fleurs coupées
+    - Fleurs comestibles
+    - Mesclun
+    - Courgettes
+    - Potimarron
+    - Tomates
+    - Traction animale  
 adresse: Hameau de Cartou - 09320 Boussenac
 osm: 5257311394
 email: payachristian09@gmail.com
