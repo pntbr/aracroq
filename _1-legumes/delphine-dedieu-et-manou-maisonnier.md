@@ -1,8 +1,8 @@
 ---
 nom: Delphine & Manou
 type: 
-  - légumes
-  - endives                          
+  - Légumes
+  - Endives                          
 responsable: Delphine Dedieu, Manou Maisonnier
 tel: 07 66 77 00 32 - 07 89 54 41 37
 adresse: Bernède - 09320 Massat
