@@ -1,10 +1,10 @@
 ---
 nom: Les vergers d'Aleu
 type: 
-  - pommes, coings, raisins, figues
-  - jus de fruits
-  - cidre
-  - vinaigre
+  - Pommes, Coings, Raisins, Figues
+  - Jus de fruits
+  - Cidre
+  - Vinaigre
 adresse: Hameau de Biech - 09320 Aleu
 osm: 5224841872
 email: agnes.rael-dorain@orange.fr
