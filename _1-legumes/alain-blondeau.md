@@ -1,10 +1,10 @@
 ---
 nom: Alain Blondeau
 type: 
-  - légumes
-  - gateaux
-  - confitures
-  - champignons
+  - Légumes
+  - Gateaux
+  - Confitures
+  - Champignons
 adresse: 09320 Massat
 osm: 1795584399
 tel:  06 03 31 49 04
