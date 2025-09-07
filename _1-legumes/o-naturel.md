@@ -2,9 +2,9 @@
 nom: O'Naturel
 type: 
   - Œufs
-  - boeufs angus et dexter
-  - tomates
-  - courgettes,   
+  - Boeufs angus et dexter
+  - Tomates
+  - Courgettes   
 adresse: Lieu dit Matalas - 09320 Boussenac
 tel: 06 56 85 00 92
 email: bart_saelen@yahoo.com
@@ -13,7 +13,7 @@ description : >
   Bart Saelen et Maryann gèrent la ferme O'Naturel avec 250 poules pondeuses, produisant 200 œufs par jour. Leur approche suit un modèle de pâturage en rotation inspiré par Joel Salatin, favorisant une agriculture régénérative. 
 responsable: Marjan Saelen et Bart Saelen
 transport:
-  - vente directe
+  - Vente directe
   - Marché
 certifications:
   - ab
