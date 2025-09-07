@@ -1,5 +1,6 @@
 ---
-responsable: Jérome MORERE
+nom: Jérôme Morère
+responsable: Jérôme MORERE
 type:
   - Ovin
 adresse: Tristenas - 09320 MASSAT
