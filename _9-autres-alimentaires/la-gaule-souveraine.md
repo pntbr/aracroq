@@ -1,10 +1,10 @@
 ---
 nom: La gaule souveraine
 type: 
-  - pates à tartiner
-  - confitures
-  - crèmes de cacahuètes
-  - purées d'amandes
+  - Pates à tartiner
+  - Confitures
+  - Crèmes de cacahuètes
+  - Purées d'amandes
 adresse: rue des Benazets - 09320 Massat
 tel:  06 74 37 48 68
 email: fabienroidor@protonmail.com
