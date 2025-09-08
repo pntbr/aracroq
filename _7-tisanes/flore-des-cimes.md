@@ -1,11 +1,11 @@
 ---
 nom: Flore des cimes
 type: 
-  - tisanes
-  - gelées
-  - sirops
-  - confitures
-  - formations
+  - Tisanes
+  - Gelées
+  - Sirops
+  - Confitures
+  - Formations
 adresse: Predes - 09320 Boussenac
 tel: 06 01 75 60 13
 mail: floredescimes@gmail.com
