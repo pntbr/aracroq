@@ -1,8 +1,8 @@
 ---
 nom: Ferme Las Laous
 type: 
-  - porcs
-  - saucisses
+  - Porcs
+  - Saucisses
 adresse: Las Laous - Col des Caougnous - 09320 Boussenac
 osm: 5247803069
 horaires:
