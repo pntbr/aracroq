@@ -1,10 +1,10 @@
 ---
 nom: Les p'tites Parèsseuses
 type: 
-  - nougats
-  - miels
-  - bières
-  - pains d'épices
+  - Nougats
+  - Miels
+  - Bières
+  - Pains d'épices
 adresse: Parès - 09320 Soulan
 tel: 06 70 28 65 26
 email: carre.agnes09@gmail.com
