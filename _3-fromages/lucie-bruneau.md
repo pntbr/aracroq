@@ -1,4 +1,5 @@
 ---
+nom: Lucie Bruneau
 responsable: Lucie BRUNEAU
 type:
   - Yaourt vache
