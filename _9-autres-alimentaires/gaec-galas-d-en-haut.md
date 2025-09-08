@@ -1,14 +1,14 @@
 ---
 nom: GAEC Galas d'en Haut
 type: 
-  - boeufs
-  - brebis
-  - conserves
-  - charcuteries
+  - Boeufs
+  - Brebis
+  - Conserves
+  - Charcuteries
   - Saucisse
-  - merguez
-  - chorizo
-  - produits de salaison
+  - Merguez
+  - Chorizo
+  - Produits de salaison
 adresse: Galas d'en Haut - 09320 Aleu
 osm: 5224819935
 tel: 06 49 37 88 49
