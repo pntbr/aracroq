@@ -1,9 +1,9 @@
 ---
 nom: Zafus et futons
 type: 
-  - zafus
-  - futons
-  - coussins
+  - Zafus
+  - Futons
+  - Coussins
 adresse: 17, rue de la montagne - 09320 Massat
 tel:  06 52 40 07 75
 email: anne.rigot.lo@gmail.com
