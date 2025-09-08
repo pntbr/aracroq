@@ -1,6 +1,6 @@
 ---
 nom: André Giorgis
-responsable:
+responsable: André GIORGIS
 type:
   - Miels
 adresse: Barabam - 09320 Biert
