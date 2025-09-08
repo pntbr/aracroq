@@ -1,7 +1,7 @@
 ---
 nom: GAEC des Demoiselles de la Plagne
 type: 
-  - miels
+  - Miels
 adresse: Le Carol - La Plagne - 09320 Le Port
 tel: 06 07 76 10 67 - 06 73 88 00 42
 mail: h.sable@laposte.net
