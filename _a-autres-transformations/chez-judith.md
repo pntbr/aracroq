@@ -1,8 +1,8 @@
 ---
 nom: Chez Judith
 type:
-  - table d'hôtes
-  - gîte
+  - Table d'hôtes
+  - Gîte
 adresse: Bomprat - 09320 Boussenac
 osm: 4325180993
 tel: 06 44 75 52 14
