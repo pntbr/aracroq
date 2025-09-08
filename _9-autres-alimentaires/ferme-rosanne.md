@@ -6,14 +6,14 @@ tel: 06 85 10 60 00
 site: https://ferme-rosane.com/
 responsable: Françoise et Jean-Pierre
 type:
-  - jus de pomme
-  - confitures
-  - sorbets
-  - sirops
-  - tisanes
-  - cidre
-  - vinaigre de cidre
-  - apéritifs
+  - Jus de pomme
+  - Confitures
+  - Sorbets
+  - Sirops
+  - Tisanes
+  - Cidre
+  - Vinaigre de cidre
+  - Apéritifs
 transport:
   - vente directe
 description : >
