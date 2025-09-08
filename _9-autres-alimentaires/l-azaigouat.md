@@ -3,11 +3,11 @@ nom: L'Azaïgouat
 responsable: Philippe GOUAZE
 type:
   - Pommes
-  - jus
-  - camping à la ferme
-  - scierie
-  - cidre
-  - confitures
+  - Jus
+  - Cidre
+  - Confitures
+  - Camping à la ferme
+  - Scierie
 adresse: Coudouméoux - 09320 Biert
 tel: 06 47 94 33 43 - 05 61 96 95 03
 email: camping.azaigouat@orange.fr
