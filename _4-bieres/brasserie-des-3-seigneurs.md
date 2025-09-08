@@ -2,7 +2,7 @@
 nom: Brasserie des trois seigneurs
 responsable: Martin Briquet
 type: 
-  - bières
+  - Bières
 adresse: Buleix - 09320 Soulan
 tel: 07 71 11 09 43
 mail: brasseriedestroisseigneurs@gmail.com
