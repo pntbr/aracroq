@@ -9,6 +9,8 @@ defaults:
       layout: location
 
 collections:
+  evenement:
+    output: true
   1-legumes:
     title: "Légumes, fruits, plants"
     output: true
