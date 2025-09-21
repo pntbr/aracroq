@@ -3,7 +3,7 @@ nom: Flore des cimes
 type: 
   - tisanes
   - gelées
-  - sirops
+  - bonbons
   - confitures
   - formations
 adresse: Predes - 09320 Boussenac
