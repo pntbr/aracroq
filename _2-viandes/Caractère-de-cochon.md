@@ -1,7 +1,7 @@
 ---
 nom: Caractères de cochon
 type:
-    - Porc durocX
+    - Porc duroc
     - Ovin
 responsable: Marine Catalan et Brice Catalan
 tel: 07 66 87 67 22

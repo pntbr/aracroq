@@ -3,7 +3,7 @@ nom: Julien Géraud
 responsable: Julien Géraud
 type:
   - Miels
-  - hydromel
+  - Hydromel
 adresse: Fourcadel - 09320 Boussenac
 tel: 06 82 78 09 02
 mail: geraudjulien@yahoo.fr

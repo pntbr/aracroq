@@ -17,6 +17,7 @@ description : >
 responsable: Simona Lasserre, Mathieu Lasserre
 transport:
   - vente directe
+  - 7 vallées
 ---
 
 ## description

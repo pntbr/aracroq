@@ -1,5 +1,6 @@
 ---
 responsable: Clara et Brieuc
+nom: ALTITUDE 907
 description: Cette fiche est en cours de rédaction
 tel: 06 68 00 70 24
 type:

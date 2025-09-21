@@ -2,7 +2,7 @@
 nom:  Bière Internationale de Massat
 responsable: Pierre Battaglieri, Guillaume Dornier
 type: 
-  - bières
+  - Bières
 adresse: 16 Ter, rue du Pont - 09320 Massat
 tel: 06 80 40 37 91 - 07 83 18 41 56 
 mail: bim@ecomail.fr

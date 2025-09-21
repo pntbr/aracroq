@@ -1,12 +1,12 @@
 ---
 nom: Le rucher des 3 seigneurs
 type: 
-  - nougats
-  - miels
-  - ballotins
-  - pains d'épices
-  - propolis
-  - sucettes
+  - Nougats
+  - Miels
+  - Ballotins
+  - Pains d'épices
+  - Propolis
+  - Sucettes
 adresse: La Briole - 09320 Le Port
 tel: 06 47 56 26 20
 site: https://rucherdes3seigneurs.com

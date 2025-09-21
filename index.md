@@ -2,6 +2,43 @@
 layout: page
 title: Les acteurs et actrices du circuit-court de la vallée de l'Arac 
 ---
+<div id="evenement-banner">
+  <p>Evènements à venir !!!</p>
+  <ul>
+    {% for event in site.evenement %}
+      <li>
+        <a href="{{ event.url }}">
+          {{ event.title | default: event.name }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+<style>
+#evenement-banner {
+  top: 0;
+  background: #73d56b;
+  border-bottom: 1px solid #002920;
+  z-index: 1000;
+  padding: 0.5em;
+}
+#evenement-banner ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 1em;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: column;
+}
+#evenement-banner a {
+  text-decoration: none;
+  color: #002920;
+}
+#evenement-banner a:hover {
+  text-decoration: underline;
+}
+</style>
 
 {% include banner.html %}
 

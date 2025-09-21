@@ -5,7 +5,7 @@ description: Cette fiche est en cours de rédaction
 tel: 06 63 58 02 61
 type:
     - Tisanes
-    - plantes séchées
+    - Plantes séchées
 certifications:
     - ab
 adresse: La bernère - 09320 MASSAT
