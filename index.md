@@ -2,6 +2,11 @@
 layout: page
 title: Les acteurs et actrices du circuit-court de la vallée de l'Arac 
 ---
+
+{% include banner.html %}
+
+Le site Aracroq est un annuaire des personnes qui produisent, élèvent, transforment et distribuent les produits de la vallée de l’Arac. Il met en valeur les circuits courts et le savoir-faire de la vallée, facilite l’accès à des produits de qualité et soutient l’économie locale 
+
 <div id="evenement-banner">
   <p>Evènements à venir !!!</p>
   <ul>
@@ -39,10 +44,6 @@ title: Les acteurs et actrices du circuit-court de la vallée de l'Arac
   text-decoration: underline;
 }
 </style>
-
-{% include banner.html %}
-
-Le site Aracroq est un annuaire des personnes qui produisent, élèvent, transforment et distribuent les produits de la vallée de l’Arac. Il met en valeur les circuits courts et le savoir-faire de la vallée, facilite l’accès à des produits de qualité et soutient l’économie locale 
 
 ## Annuaire des personnes productrices
 
