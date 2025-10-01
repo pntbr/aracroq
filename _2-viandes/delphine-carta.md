@@ -12,4 +12,4 @@ transport:
 ---
 ## description
 
-Delphine Carta est installée depuis 2012 sur la commune de Soulan en tant qu'éleveuse de brebis tarasconaises et de bovins, tous transhumants. Avec un cheptel de 300 animaux, elle est rejointe par deux associés, qui réalisent une partie de leur foin pour l'autoconsommation. 
+Delphine Carta et Frédéric Antonetti sont installés depuis 2012 sur la commune de Soulan en tant qu'éleveur et éleveuse de brebis tarasconaises et de bovins, tous transhumants. Avec un cheptel de 300 animaux, ils sont rejoints par Maxence Maugard en 2025, et réalisent une partie de leur foin pour l'autoconsommation. 
