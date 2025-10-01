@@ -1,7 +1,7 @@
 ---
 nom: Les vergers d'Aleu
 type: 
-  - Pommes, Coings, Raisins, Figues
+  - Pommes, Poires, Coings, Raisins, Figues
   - Jus de fruits
   - Cidre
   - Vinaigre
