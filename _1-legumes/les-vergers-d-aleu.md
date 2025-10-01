@@ -13,8 +13,8 @@ description: >
   Les Vergers d'Aleu, gérés par Agnès Raël, produisent des fruits, légumes, cidre, jus, vinaigre bio. Vente à la ferme sur rendez-vous et sur les marchés.
 responsable: Agnès Raël 
 transport:
-  - marché soueix
-  - épicerie
+  - Marché soueix
+  - Epicerie Massat et Seix
 ---
 
 ## description
