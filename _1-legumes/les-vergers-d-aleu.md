@@ -19,7 +19,8 @@ transport:
 
 ## description
 
-les vergers d'aleu sont conduits en agriculture biologique par Agnès Rael sur la commune d'Aleu : "pour accompagner mes arbres j'ai choisi le plein vent, la forme libre et la taille douce. Les traitements à base d'extrait de plantes et huiles essentiels stimulent les défenses naturelles de la plante. Les amendements avec les ressources disponibles, BRF et guano de poules entretiennent un sol vivant."  
+Les vergers d'Aleu sont conduits en Agriculture Biologique par Agnès Rael sur la commune d'Aleu : "Pour accompagner mes arbres j'ai choisi le plein vent, la forme libre et la taille douce. Les traitements à base d'extrait de plantes et huiles essentiels stimulent les défenses naturelles de la plante. Les amendements avec les ressources disponibles, BRF et guano de poules entretiennent un sol vivant."  
 Je propose des fruits (pommes, coings, poires, raisins et figues) et mes jus de fruits, cidre, et vinaigre  à la vente sur le marché de soueix tous les mercredi après-midi, au jardin des 7 vallées, et à la supérette vival à oust.  
 
-![Les vergers d'Aleu](./media/vergers-d-aleu.jpg)
+
+![Les vergers d'Aleu](./media/vergers_daleu2.JPG)
