@@ -13,9 +13,7 @@ type:
   - Courgettes
 adresse: Bomprat - 09320 Boussenac
 osm: 8749028492
-tel: 06 87 65 61 52
-responsable: Philippe Rahuel (Félipé Casteles)
-email: rawell_junior@yahoo.fr
+responsable: Félipé Casteles
 transport:
   - vente directe
   - marché massat
