@@ -2,7 +2,7 @@
 nom: Gérard Steil
 responsable:
 type:
-  - Ovin sur pieds
+  - Ovin
 adresse: Eycherboul - 09320 MASSAT
 tel: 06 78 82 87 92
 description: Cette fiche est en cours de rédaction
