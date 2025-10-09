@@ -1,12 +1,12 @@
 ---
-nom: Delphine & Manou
+nom: Delphine
 type: 
   - Légumes
   - Endives                          
-responsable: Delphine Dedieu, Manou Maisonnier
-tel: 07 66 77 00 32 - 07 89 54 41 37
+responsable: Delphine Dedieu
+tel: 07 66 77 00 32
 adresse: Bernède - 09320 Massat
-email: delphine-dedieu@hotmail.fr - juliemanou59@gmail.com
+email: delphine-dedieu@hotmail.fr
 description : >
     Delphine et Manou produisent des endives à Massat, forcées dans du sable et du terreau, offrant une qualité artisanale certifiée AB Qualisud, plus fermes et moins amères que les endives industrielles.
 transport:
