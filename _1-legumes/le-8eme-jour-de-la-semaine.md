@@ -17,5 +17,7 @@ responsable: Félipé Casteles
 transport:
   - vente directe
   - marché massat
+description : >
+   Le 8ème Jour de la semaine produit des légumes bio organiques, Variétés Anciennes et Population, en vente à Bomprat - Boussenac et régulièrement au marché de Massat.  
 ---
-"Le 8ème Jour de la semaine", jardin de légumes bio organiques, "Variétés Anciennes" et "Population". Vente directe au jardin, à Bomprat - Boussenac, et régulièrement au marché de Massat. Pour cette 1ère saison estivale 2025, j'ai cultivé "des classiques" mis à part quelques variétés de concombres des Antilles ou un Cristal Apple Anglais, aussi quelques variétés de Basilic type Grec, Thaïlandais ou Tulsi indien, ... Mais c'est l'idée pour le futur, aller vers des saveurs toujours différentes, rustiques ou exotiques... L'heure est encore à la découverte et l'apprentissage de ce nouveau jardin, téléphonez et n'hésitez pas à passer.
+Le 8ème Jour de la semaine, jardin de légumes bio organiques, "Variétés Anciennes" et "Population". Vente directe au jardin, à Bomprat - Boussenac, et régulièrement au marché de Massat. Pour cette 1ère saison estivale 2025, j'ai cultivé "des classiques" mis à part quelques variétés de concombres des Antilles ou un Cristal Apple Anglais, aussi quelques variétés de Basilic type Grec, Thaïlandais ou Tulsi indien, ... Mais c'est l'idée pour le futur, aller vers des saveurs toujours différentes, rustiques ou exotiques... L'heure est encore à la découverte et l'apprentissage de ce nouveau jardin, téléphonez et n'hésitez pas à passer.
