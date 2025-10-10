@@ -2,6 +2,7 @@
 nom: Microferme du val d'Arac
 type: 
   - Bocaux à partir des légumes de la ferme
+  - Oeufs
 adresse: Lieu dit Mathiou - 09320 Massat
 tel: 06 33 18 48 13
 email: tarikbellefqih7@hotmail.com, etienne.rouet@hotmail.fr
