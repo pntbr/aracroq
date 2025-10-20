@@ -20,12 +20,18 @@ certifications:
 
 ## Description
 
-On vit à Jambes, un petit bout de montagne au-dessus de Biert. C’est pas une carte postale. C’est des prés qu’on défriche à la main, des clôtures à retendre sous la pluie, des bêtes à nourrir quand t’as plus d’énergie. C’est notre manière d’habiter le lieu, de le faire respirer à nouveau.
+On vit à Jambes, un petit bout de montagne au-dessus de Biert.
+C’est pas une carte postale : c’est un lieu qu’on habite, qu’on entretient, qu’on fait respirer à nouveau.
 
-Laurine travaille avec ses deux juments mérens, noires et puissantes, pour le débardage et le portage. Rémi transforme le bois du coin avec sa scierie mobile. Ensemble, on élève un petit troupeau de brebis et de chèvres, on fait du fromage de chèvre et de brebis. simple, bon, bio et vivant, et on le vend sur les marchés de Biert et de Massat.
+Laurine travaille avec ses deux juments mérens, noires et puissantes, et une jument de trait, pour le débardage et le portage. Rémi transforme le bois du coin avec sa scierie mobile. Ensemble, on élève un petit troupeau de brebis et de chèvres, et on fait du fromage de chèvre et de brebis : simple, bon, bio, vivant.
+On le vend sur les marchés de Massat le dimanche, de Soueix-Rogalle le mercredi, à la Récolte paysanne de Saint-Girons et à l’Épi-Paradis à Castet-d’Aleu.
 
-La vie ici est rude et belle. elle use les mains, elle remet les idées à l’endroit. On vit au rythme des bêtes, du temps, des saisons. On fait de notre mieux pour que tout tienne debout : les prés, les ponts, les chemins, et nous au milieu.
+La vie ici est rude et belle. Elle use les mains, remet les idées à l’endroit.
+On vit au rythme des bêtes, du temps, des saisons.
+On fait de notre mieux pour que tout tienne debout : les prés, les ponts, les chemins et nous au milieu.
 
-Ce qu’on cherche, c’est pas la gloire ni le confort. juste une vie pleine, simple, un peu sauvage, où le travail a du sens et la montagne une voix avec une envie têtue : vivre libre, produire propre, et ne rien devoir à personne.
+Ce qu’on cherche, c’est pas la gloire ni le confort.
+Juste une vie pleine, simple, un peu sauvage, où le travail a du sens et la montagne une voix.
+On garde cette envie têtue : vivre libre, produire propre, et rester fidèles à ce qui nous relie à ce lieu.
 
 ![La chevrotine](./media/la-chevrotine.jpg)
