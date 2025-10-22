@@ -1,4 +1,5 @@
 ---
+nom: Philippe Renaud
 responsable: Philippe RENAUD
 type:
   - Vinaigre de cidre
