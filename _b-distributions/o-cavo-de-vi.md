@@ -10,5 +10,3 @@ description:
 transport:
   - vente directe
 ---
-
-## description
