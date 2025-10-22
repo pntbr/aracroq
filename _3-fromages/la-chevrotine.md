@@ -8,7 +8,7 @@ tel: 07 69 05 06 80 - 06 95 15 07 60
 mail: lolodanslo09@yahoo.com 
 osm: 5224981849 
 description : >
-  La chevrotine, c’est Laurine et Rémi. il et elle élèvent des chèvres et des brebis, bossent avec des juments mérens, débardent le bois et font du fromage bio. La vie, du vent et de la sueur.
+  La chevrotine, c’est Laurine et Rémi. il et elle élèvent des chèvres et des brebis, bossent avec des juments mérens, débardent le bois et font du fromage bio. La vie, le vent, le travail et le joie.
 responsable: Laurine Del Mercato et Rémi
 transport:
   - marché Biert
