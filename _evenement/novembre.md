@@ -20,9 +20,9 @@ Pour prendre conscience de la réalité du coût de nos choix agricoles pour les
 
 16h15 Mozararac (des paroles sur la vallée et les enjeux écologiques transcendées par des musiques de Mozart!)en concert au auvent de la salle des fêtes
 
-16h30 film « sur le champ »(1h05). la production locale et le circuit court à travers le monde.
+16h30 film « la théorie du boxeur »(1h30). L'agriculture face au changement climatique.
 
-[surlechamp](https://surlechamp.be/)
+https://www.latheorieduboxeur.fr/
 
 17h45 petits films sur des producteurs locaux de la vallée
 
