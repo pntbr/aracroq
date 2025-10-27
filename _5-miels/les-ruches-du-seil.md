@@ -4,6 +4,9 @@ responsable: Océane SOURY
 description: Océane SOURY du rucher du Seil, produit du miel toutes fleurs depuis environ 5 ans sur la commune de Biert.
 tel: 06 37 21 56 78
 adresse: Le seil - 09320 BIERT
+transport:
+  - épicerie
+  - vente directe
 type:
     - Miel
 ---
