@@ -10,6 +10,7 @@ transport:
 type:
     - Miel
 ---
-Océane SOURY du rucher du Seil, produit du miel toutes fleurs depuis environ 5 ans sur la commune de Biert. Malgré les problèmes rencontrés avec les frelons, la quinzaine de ruches qui sont sédentaires toute l'année produisent du miel récolté une fois par an.
+Océane SOURY du rucher de Seil, produit du miel toutes fleurs depuis environ 5 ans sur la commune de Biert. 
+Malgré les problèmes rencontrés avec les frelons, la quinzaine de ruches qui sont sédentaires toute l'année produisent du miel récolté une fois par an.
 
 Le miel est disponible à la demande, ainsi qu'à l'épicerie d'Espie.
