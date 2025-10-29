@@ -32,6 +32,6 @@ Si on a le temps, présentation des résultats de l'enquête sur la façon de co
 
 A partir de 18h, apéro-dinatoire dans stands commerçants
 
-19h30-20h30 : concert sous la halle  Puerto candela. Cumbia avec des musiciens de la vallée !
+19h30-20h30 : concert sous la halle  Puerto candela. Cumbia avec des musiciens de la vallée ! accompagné par un performance graphique de Johany!
 
 🥳
