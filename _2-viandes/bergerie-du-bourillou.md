@@ -15,6 +15,10 @@ transport:
 certifications:
     - ab
 ---
+
+## Description
+
+
 La Bergerie de Bourillou, dirigée par Rose Piquemal, est une exploitation agricole spécialisée dans l'élevage de brebis. La bergerie propose de la viande d'agneau en vente directe, assurant une qualité optimale pour les personnes consommatrices.  
 En plus de la production de viande, la ferme valorise la laine de ses brebis.
 
