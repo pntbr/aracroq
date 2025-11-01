@@ -16,4 +16,7 @@ transport:
   - vente directe
 ---
 
+## Description
+
+
 Julien est un passionné d'apiculture qui depuis 2010 développe des miels, il propose différent types de miel: Bruyère, Acacia, Chataîgnier, Fleurs sauvages de Montagne et même Rododendron. Aussi à côté il tient une pension pour chevaux. Occasionnellement il propose de la viande de vache.
