@@ -29,7 +29,7 @@ certifications:
   - ab
 ---
 
-## description
+## Description
 
 Nous sommes Odile et Romain, un couple de maraîchers sur petite surface à la sortie de massat (lieu dit du Guioulat).  
 
