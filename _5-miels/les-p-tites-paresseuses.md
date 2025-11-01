@@ -17,7 +17,7 @@ transport:
   - vente directe
 ---
 
-## description
+## Description
 
 Situé au cœur des Pyrénées - Ariégeoise, dans le petit hameau de Parès,
 Agnès Carré récolte amoureusement pour vous cet or merveilleux qui
