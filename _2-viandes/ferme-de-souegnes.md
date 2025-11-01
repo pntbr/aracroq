@@ -22,7 +22,7 @@ certifications:
   - bienvenue
 ---
 
-## description
+## Description
 
 La Ferme de Souègnes, située à Massat, est une exploitation familiale engagée dans une agriculture durable et respectueuse de l'environnement. Florence et Alain Olive élèvent des buffles et des vaches limousines, en mettant l'accent sur le bien-être animal et des pratiques écologiques. La ferme est en conversion biologique et certifiée Haute Valeur Environnementale (HVE), témoignant de ses efforts pour préserver les écosystèmes locaux. Leur production se concentre sur la vente directe et les circuits courts, et comprend de la viande de buffle, de veau et de bœuf, disponible en vente à la ferme, sur les marchés locaux ou en livraison. La ferme propose aussi des produits originaux comme du savon au lait de bufflonne, entièrement naturel. Pendant la bonne saison, les animaux transhument vers les pâturages riches du Port de Lers, où ils paissent librement en estive.
 
