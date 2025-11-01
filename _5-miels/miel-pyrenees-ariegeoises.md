@@ -6,7 +6,7 @@ type:
   - gelée royale (cure)
 adresse: Guirel - 09320 BIERT
 tel: 06 80 07 78 68
-description: Cette fiche est en cours de rédaction
+description: Cécile et Mathieu produisent du miel depuis respectivement 7 et 20 ans dans la vallée.
 certifications:
   - ab
 transport:
