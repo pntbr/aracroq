@@ -13,6 +13,8 @@ transport:
     - vente directe
 ---
 
+## Description
+
 
 Installés en Ariège depuis plus de 50 ans dans la vallée, Christian, Maggy et Magali JOLFRE produisent des miels toutes fleurs, d'acacias et de chataigniers. La cinquantaine de ruches qui produisent ce miel sont dispersées entre 5 et 30 km autour de la ferme. Certaines d'entre elles transhument en été pour produire du miel de rhododendrons et de bruyères.
 
