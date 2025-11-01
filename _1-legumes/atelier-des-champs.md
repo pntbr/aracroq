@@ -21,6 +21,8 @@ certifications:
   - np
 ---
 
+## Description
+
 C'est sur les pentes montagneuses, que s'expérimente une culture où, le lien avec les plantes et leurs principes de vie sont considérés primordiaux. La nature créée et c'est une source d'observation merveilleuse.
 
 L'Atelier des champs s'inspire du monde végétal pour nourrir plusieurs domaines :
