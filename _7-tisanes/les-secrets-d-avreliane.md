@@ -14,7 +14,7 @@ transport:
   - marché de Soueix
 ---
 
-## description
+## Description
 
 Catherine MAHYEUX cueille et transforme des plantes sauvages depuis une petite dizaine d'années. Avec les connaissances d'environ 250 plantes différentes, elle cueille des plantes spécifiques à toutes les saisons.
 
