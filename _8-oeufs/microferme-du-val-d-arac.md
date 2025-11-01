@@ -15,7 +15,7 @@ transport:
   - vente directe
 ---
 
-## description
+## Description
 
 Nous avons choisi de nicher notre petite ferme diversifiée, inspirée de la philosophie permaculturelle, à Massat : un coin de montagne à 750m d’altitude où nous élevons quelques poules rustiques de race Gasconne, et cultivons légumes et aromates selon des méthodes agroécologiques.
 Depuis 2024, nous transformons en Ariège notre production à petite échelle pour en faire profiter toute l’année. Nos recettes sont à la fois des secrets de famille et des créations inspirées de coups de cœur culinaires : nous proposons aujourd’hui une gamme de plats cuisinés et autres (dahl de lentilles corail au potimarron, pesto chou rouge & noix à l’huile d’olive, caviar de courgettes jaunes aux raisins caramélisés, etc.) qui a vocation à s’étoffer chaque saison. Nous utilisons d’abord les légumes de la ferme et complétons avec des ingrédients produits de façon éthique et sourcés le plus localement possible : dans la vallée, en Ariège, en région Occitanie...
