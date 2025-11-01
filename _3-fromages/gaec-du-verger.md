@@ -14,6 +14,9 @@ transport:
   - vente directe
 ---
 
+## Description
+
+
 Le GAEC du Verger, situé à Ardichen dans la commune de Soulan (Ariège), est une exploitation agricole fondée en 2003. Spécialisée dans l'élevage de vaches laitières, la ferme produit des fromages et des yaourts artisanaux. Sous la direction de Françoise Sarramalho, le GAEC du Verger privilégie la vente directe, permettant aux consommateurs de bénéficier de produits frais et locaux.
 
 ![GAEC du Verger](./media/gaec-du-verger.jpg)
