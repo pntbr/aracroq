@@ -16,7 +16,7 @@ transport:
     - Epicerie d'Aleu
 ---
 
-## description
+## Description
 
 Pyrène RIEU cultive et prépare des tisanes et plantes séchées depuis 3 ans, et plus récemment des petits fruits.
 La ferme s'est développée au fur et à mesure des années, et ce sont maintenant 13 plantes (cultures ou récoltes sauvages), et des fraisiers de différentes variétés qui sont cultivées sur 0,5 hectares. Labellisées en Agriculture Biologique, les cultures sont réalisées en limitant le travail du sol pour respecter sa structure et sa richesse biologique, en favorisant le paillage ainsi que les associations entre plantes.  Les plantes sont cultivées et récoltées à la main. 
